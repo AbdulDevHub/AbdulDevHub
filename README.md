@@ -1,6 +1,4 @@
 [![MasterHead](./github-header-image.png)](https://abdulhadikhan-portfolio.netlify.app/)
-<h1 align="center">Hi 👋, I'm Abdul Khan</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Next.js Productivity Website](https://github.com/AbdulDevHub/Cloned-Next.js-Productivity-Website)
