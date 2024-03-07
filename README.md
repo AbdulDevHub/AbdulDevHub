@@ -90,8 +90,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abduldevhub/abduldevhub/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 [comment]: <> (Code To Render 3D Commit Table)
 ![](./profile-3d-contrib/profile-green-animate.svg)
+<br/><br/>
