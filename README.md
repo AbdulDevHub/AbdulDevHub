@@ -83,7 +83,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact" alt="abduldevhub" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en" alt="abduldevhub" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats-omega-azure.vercel.app/api?username=abduldevhub&show_icons=true&locale=en" alt="abduldevhub" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abduldevhub&" alt="abduldevhub" /></p>
 
 [comment]: <> (Code To Render Snake GIF)
