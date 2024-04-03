@@ -18,42 +18,36 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
   
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/canva/canva-original.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
-  </a>
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  </a>
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/intellij/intellij-original.svg" target="_blank" rel="noreferrer"> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
-  </a>
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/jupyter/jupyter-original-wordmark.svg" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
-  </a>
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/materialui/materialui-original.svg" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> 
-  </a>
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/netlify/netlify-original.svg" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/> 
-  </a>
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/playwright/playwright-original.svg" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/> 
-  </a>
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/pycharm/pycharm-original.svg" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
-  </a>
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/threejs/threejs-original.svg" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> 
-  </a>
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/vercel/vercel-original.svg" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/> 
-  </a>
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/vitejs/vitejs-original.svg" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/> 
-  </a>
-  <a href="https://devicons.github.io/devicon/devicon.git/icons/vscode/vscode-original.svg" target="_blank" rel="noreferrer"> 
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a>
+</a>
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
