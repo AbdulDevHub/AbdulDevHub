@@ -13,31 +13,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
+<p align="left">
+  <a href="https://cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
-    
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
-  </a>
-    
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> 
-  </a>
-    
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/> 
-  </a>
-    
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/> 
-  </a>
-    
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
-  </a>
-    
+  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
@@ -57,7 +37,11 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
-    
+  
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> 
+  </a>
+
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
@@ -66,6 +50,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
     
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> 
+  </a>
+
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a>
@@ -74,6 +62,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
     
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> 
+  </a>
+    
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/> 
+  </a>
+
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a>
@@ -81,9 +77,17 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a>
+  
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/> 
+  </a>
     
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
   </a>
     
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -93,6 +97,10 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
+
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> 
+  </a>
     
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
@@ -101,11 +109,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
   </a>
-    
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a>
-    
+
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/> 
   </a>
@@ -114,12 +118,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/> 
   </a>
     
-  <a href="https://cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-    
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
 </p>
 
