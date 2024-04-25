@@ -102,8 +102,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="40" height="40"/>
+  </a>
+
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="three.js" width="40" height="40"/> 
   </a>
     
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
