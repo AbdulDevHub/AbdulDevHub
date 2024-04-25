@@ -85,6 +85,10 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
+  
+  <a href="https://prismic.io" target="_blank" rel="noreferrer"> 
+    <img src="https://static-00.iconduck.com/assets.00/prismic-icon-511x512-rbr6bktf.png" alt="prismic" width="40" height="40"/> 
+  </a>
 
   <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" alt="puppeteer" width="40" height="40"/>
