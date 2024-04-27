@@ -1,5 +1,5 @@
 [![MasterHead](./github-header-image.png)](https://abdulhadikhan-portfolio.netlify.app/)
-<img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/AbdulDevHub/AbdulDevHub/blob/main/Coder%20-%20No%20Background.gif?raw=true">
 <img src="https://github.com/abduldevhub/abduldevhub/blob/master/github.gif" />
 
 - 🔭 I’m currently working on [Next.js Productivity Website](https://github.com/AbdulDevHub/Opal-Labs-Frontend)
