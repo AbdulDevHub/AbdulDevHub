@@ -154,7 +154,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abduldevhub&theme=light" alt="abduldevhub" />
 </picture>
 
-[comment]: <> (Code To Render Snake GIF)
+<!-- Code To Render Snake GIF -->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   
@@ -167,10 +167,10 @@
   <br/><br/>
 </div>
 
-[comment]: <> (Code To Render 3D Commit Table)
+<!-- Code To Render 3D Commit Table -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile Contribution graph" />
 </picture>
 <br/><br/>
