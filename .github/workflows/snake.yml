@@ -24,39 +24,14 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-      - name: Generate the snake files in './dist/'
+      - name: Generate GitHub Snake
         uses: Platane/snk@v3
-        id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: 'AbdulDevHub'
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Show build status
-        run: git status
-
-      - name: Create 'Snake Svg' directory
-        run: mkdir -p Snake\ Svg/
-
-      - name: Copy files to 'Snake Svg' directory
-        run: cp dist/* Snake\ Svg/
-
-      - name: Remove original files
-        run: rm dist/*
-
-      - name: Add changes to git
-        run: |
-          git config --local user.email ${{ github.actor_email }}
-          git config --local user.name ${{ github.actor }}
-          git add .
-          git commit -m "Update snake animations"
-
-      - name: Push changes to main branch
-        run: git push origin main
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
