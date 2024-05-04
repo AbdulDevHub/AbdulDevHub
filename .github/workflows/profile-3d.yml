@@ -1,13 +1,27 @@
+# GitHub Action for generating a 3D contribution graph.
 name: GitHub-Profile-3D-Contrib
 
+# Controls when the action will run.
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule: # 12:00 AM EDT == 04:00 UTC
+    - cron: "0 4 * * *"
+    
+  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
+  
+  # Also run on every push on the master branch
+  push:
+    branches:
+    - main
 
+# The sequence of runs in this workflow:
 jobs:
+  # This workflow contains a single job called "build"
   build:
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
