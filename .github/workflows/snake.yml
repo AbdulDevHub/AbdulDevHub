@@ -43,7 +43,10 @@ jobs:
         run: git status
 
       - name: Create 'Snake Svg' directory
-        run: mkdir -p Snake\ Svg
+        run: mkdir -p Snake\ Svg/
+
+      - name: Change permissions
+        run: chmod 755 Snake\ Svg/
 
       - name: Move files to 'Snake Svg' directory
         run: mv dist/* Snake\ Svg/
