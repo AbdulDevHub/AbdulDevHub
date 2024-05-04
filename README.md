@@ -163,8 +163,8 @@
 
 [comment]: <> (Code To Render 3D Commit Table)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulDevHub/AbdulDevHub/d36ad86c8719506872bf96c6f987cadcd9e9a481/profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdulDevHub/AbdulDevHub/d36ad86c8719506872bf96c6f987cadcd9e9a481/profile-3d-contrib/profile-green-animate.svg">
-  <img src="https://raw.githubusercontent.com/AbdulDevHub/AbdulDevHub/d36ad86c8719506872bf96c6f987cadcd9e9a481/profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile Contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile Contribution graph" />
 </picture>
 <br/><br/>
