@@ -45,11 +45,11 @@ jobs:
       - name: Create 'Snake Svg' directory
         run: mkdir -p Snake\ Svg/
 
-      - name: Change permissions
-        run: chmod 755 Snake\ Svg/
+      - name: Copy files to 'Snake Svg' directory
+        run: cp dist/* Snake\ Svg/
 
-      - name: Move files to 'Snake Svg' directory
-        run: mv dist/* Snake\ Svg/
+      - name: Remove original files
+        run: rm dist/*
 
       - name: Add changes to git
         run: |
