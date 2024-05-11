@@ -136,8 +136,8 @@
 </p>
 
 <!-- Code To Render Stats -->
-<div align="center">
-  <h2>📊 GitHub Stats 📊</h2>
+<div align="left">
+  <h2>GitHub Stats</h2>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=dark">
