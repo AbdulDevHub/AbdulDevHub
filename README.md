@@ -1,5 +1,5 @@
 [![MasterHead](./Images/Header.png)](https://abdulhadikhan-portfolio.netlify.app/)
-<img align="right" alt="Coding" width="400" src="https://github.com/AbdulDevHub/AbdulDevHub/blob/main/Gifs/Coder%20-%20No%20Background.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="Images/Gifs/FloatingCoder (No Background).gif">
 <img src="https://github.com/abduldevhub/abduldevhub/blob/master/github.gif" />
 
 - 🔭 I’m currently working on [Next.js Productivity Website](https://github.com/AbdulDevHub/Opal-Labs-Frontend)
@@ -64,7 +64,11 @@
   </a>
     
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark Versions/MySql.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+    </picture>
   </a>
     
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
@@ -72,7 +76,11 @@
   </a>
     
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark Versions/Netlify.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>
+    </picture>
   </a>
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -117,7 +125,7 @@
 
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="Images/Threejs.png" />
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark Versions/Threejs.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="three.js" width="40" height="40"/>
     </picture>
@@ -129,7 +137,7 @@
 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="Images/Unity.png" />
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark Versions/Unity.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
     </picture>
@@ -137,7 +145,7 @@
 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="Images/Vercel.png" />
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark Versions/Vercel.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
     </picture>
