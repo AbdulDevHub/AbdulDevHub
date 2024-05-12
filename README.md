@@ -8,8 +8,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdul-hadi-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-hadi-khan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@learningexpressway/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learning expressway" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abdul-hadi-khan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-hadi-khan" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.youtube.com/@learningexpressway/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learning expressway" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -70,8 +75,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/> 
   </a>
 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Nextjs.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    </picture>
   </a>
     
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
@@ -110,20 +119,32 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="40" height="40"/>
   </a>
 
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="three.js" width="40" height="40"/> 
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Threejs.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="three.js" width="40" height="40"/>
+    </picture>
   </a>
     
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
-    
+
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Unity.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
+      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+    </picture>
   </a>
 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Vercel.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
+    </picture>
   </a>
     
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
