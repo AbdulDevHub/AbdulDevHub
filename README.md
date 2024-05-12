@@ -161,15 +161,15 @@
   <h2>GitHub Stats</h2>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-abdul.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-abdul.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light">
-    <img align="left" src="https://github-readme-stats-abdul.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light" alt="abduldevhub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light" alt="abduldevhub" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-abdul.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-abdul.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light">
-    <img align="center" src="https://github-readme-stats-abdul.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light" alt="abduldevhub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light" alt="abduldevhub" />
   </picture>
   
   <picture>
