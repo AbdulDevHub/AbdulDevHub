@@ -165,20 +165,20 @@
   <h2>GitHub Stats</h2>
   
   <picture>
-    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light">-->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light" alt="abduldevhub" />
   </picture>
   
   <picture>
-    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light">-->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light" alt="abduldevhub" />
   </picture>
   
   <picture>
-    <!--<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abduldevhub&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abduldevhub&theme=light">-->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abduldevhub&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abduldevhub&theme=light">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abduldevhub&theme=light" alt="abduldevhub" />
   </picture>
 </div>
@@ -188,8 +188,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   
   <picture>
-    <!--<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abduldevhub/abduldevhub/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abduldevhub/abduldevhub/output/github-contribution-grid-snake.svg" />-->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abduldevhub/abduldevhub/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abduldevhub/abduldevhub/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/abduldevhub/abduldevhub/output/github-contribution-grid-snake.svg" />
   </picture>
   
@@ -198,8 +198,8 @@
 
 <!-- Code To Render 3D Commit Table -->
 <picture>
-  <!--<source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />-->
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile Contribution graph" />
 </picture>
 <br/><br/>
