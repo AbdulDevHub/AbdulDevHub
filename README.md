@@ -171,7 +171,7 @@
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="awesome-github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://awesome-github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://awesome-github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light">
     <img align="center" src="https://awesome-github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light" alt="abduldevhub" />
   </picture>
