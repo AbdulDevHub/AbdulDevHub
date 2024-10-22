@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Opal Labs](https://github.com/AbdulDevHub/Opal-Labs-Frontend)
 - 🌱 I’m currently learning **Next.js, Three.js, & SQL**
-- 👨‍💻 All of my projects are available at [abdulhadikhan.netlify.app](https://abdulhadikhan.netlify.app/) and [abdulhadikhan.vercel.app](https://abdulhadikhan.vercel.app/)
+- 👨‍💻 All of my projects are available at [abdulhadikhan.vercel.app](https://abdulhadikhan.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
