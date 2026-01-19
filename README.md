@@ -9,7 +9,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="Images/AWS.png" alt="aws" width="40" height="40"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark%20Versions/AWS.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </picture>
   </a>
 
   <a href="https://www.youtube.com/watch?v=4gwYkEK0gOk" target="_blank" rel="noreferrer">
