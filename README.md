@@ -9,15 +9,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="Images/AWS.png" alt="aws" width="40" height="40"/>
   </a>
 
   <a href="https://www.youtube.com/watch?v=4gwYkEK0gOk" target="_blank" rel="noreferrer">
     <img src="Images/Assembly.png" alt="assembly" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   </a>
 
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
@@ -96,16 +92,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" alt="leetcode" width="40" height="40"/>
   </a>
 
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
-  </a>
-
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-
-  <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
   </a>
 
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
