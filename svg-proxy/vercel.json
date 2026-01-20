@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/profile.svg",
+            "destination": "/api/svg"
+        }
+    ]
+}
