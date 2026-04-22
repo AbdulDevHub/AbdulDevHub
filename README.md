@@ -31,7 +31,7 @@
   </a>
 
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
-    <img src="Images/Bitbucket.svg" alt="bitbucket" width="40" height="40"/>
+    <img src="Images/BitBucket.svg" alt="bitbucket" width="40" height="40"/>
   </a>
 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
@@ -91,7 +91,7 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="Images/JavaScript.svg" alt="javascript" width="40" height="40"/>
+    <img src="Images/Javascript.svg" alt="javascript" width="40" height="40"/>
   </a>
 
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
@@ -103,7 +103,7 @@
   </a>
 
   <a href="https://leetcode.com/" target="_blank" rel="noreferrer">
-    <img src="Images/Leetcode.svg" alt="leetcode" width="40" height="40"/>
+    <img src="Images/LeetCode.svg" alt="leetcode" width="40" height="40"/>
   </a>
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -163,7 +163,7 @@
   </a>
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="Images/Tailwindcss.svg" alt="tailwindcss" width="40" height="40"/>
+    <img src="Images/TailWindCss.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
 
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
