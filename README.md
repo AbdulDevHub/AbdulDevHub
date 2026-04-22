@@ -1,5 +1,5 @@
 [![MasterHead](./Images/Header.png)](https://abdulhadikhan.netlify.app/)
-<img align="right" alt="Coding" width="400" src="Images/Gifs/FloatingCoder (Transparent).gif">
+<img align="right" alt="Coding" width="400" height="300" src="Images/Gifs/FloatingCoder (Transparent).gif">
 <img alt="Empty Space" src="https://github.com/abduldevhub/abduldevhub/blob/master/github.gif" />
 
 - 🔭 I’m currently working on [Opal Labs](https://github.com/AbdulDevHub/Opal-Labs-Frontend)
@@ -7,15 +7,12 @@
 - 👨‍💻 All of my projects are available at [abdulhadikhan.vercel.app](https://abdulhadikhan.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/abdul-hadi-khan" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="abdul-hadi-khan" height="40" width="40" />
-  </a>
-
-  <a href="https://www.youtube.com/@learningexpressway/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learning expressway" height="40" width="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center"><a href="https://linkedin.com/in/abdul-hadi-khan" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="abdul-hadi-khan" height="40" width="40"/></a></td>
+    <td align="center"><a href="https://www.youtube.com/@learningexpressway/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learning expressway" height="40" width="40"/></a></td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
@@ -26,6 +23,8 @@
     <td align="center"><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a></td>
