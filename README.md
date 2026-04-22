@@ -1,5 +1,5 @@
 [![MasterHead](./Images/Header.png)](https://abdulhadikhan.netlify.app/)
-<img align="right" alt="Coding" width="400" height="300" src="Images/Gifs/FloatingCoder (Transparent).gif">
+<img align="right" alt="Coding" width="400" src="Images/Gifs/FloatingCoder (Transparent).gif">
 <img alt="Empty Space" src="https://github.com/abduldevhub/abduldevhub/blob/master/github.gif" />
 
 - 🔭 I’m currently working on [Opal Labs](https://github.com/AbdulDevHub/Opal-Labs-Frontend)
