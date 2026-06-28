@@ -14,6 +14,7 @@
 | **YouTube** | [@learningexpressway](https://www.youtube.com/@learningexpressway/) |
 | **GitHub** | [AbdulDevHub](https://github.com/AbdulDevHub/) |
 | **Portfolio** | [AbdulHadiKhan](https://abdulhadikhan.vercel.app/) |
+| **Shopify Store** | [learningexpressway.com](https://learningexpressway.com/) |
 
 ---
 
@@ -23,7 +24,6 @@
 - **Timeline:** Graduating April 2027, actively targeting full-time roles
 - **Preferred companies:** Tech or AI-focused, companies where TypeScript and cloud-native stacks are standard
 - **Location preference:** Remote or hybrid in Canada
-- **Roles/directions to avoid:** Embedded/automotive (Kotlin, Java, C#, QNX), data analytics (Power BI, Tableau), short-term internships below InsideDesk's scope
 
 ---
 
@@ -33,12 +33,73 @@
 
 *August 2021 – April 2027 (expected)*
 
-- Relevant coursework includes: CSC343 (Databases — SQL, schemas, ERDs, relational theory, currently in progress)
-- *(Add other relevant courses, projects, or grades here)*
+**Skills developed:**
+- Practiced UI/UX design & Human-Computer Interaction using Figma and W3C accessibility standards
+- Applied software development skills in Python, Java, TypeScript, and C, focusing on clean, maintainable code
+- Used Git and GitHub for version control and team collaboration
+- Conducted usability testing and debugging with IntelliJ, VS Code, and PyCharm
+- Worked in Agile/Scrum teams, refining leadership, communication, and project management
+- Gained experience in Linux, Git BASH, and CI/CD for automated testing and deployment
+- Built a strong mathematical foundation for problem-solving in software and game design
+
+**Completed coursework:**
+
+| Code | Course |
+|---|---|
+| CCT109H5 | Contemporary Communication Technologies |
+| CSC108H5 | Introduction to Computer Programming |
+| ISP100H5 | Writing for University and Beyond |
+| MAT102H5 | Introduction to Mathematical Proofs |
+| MAT135H5 | Differential Calculus |
+| CCT110H5 | Rhetoric and Media |
+| CCT111H5 | Critical Coding |
+| CSC148H5 | Introduction to Computer Science |
+| MAT136H5 | Integral Calculus |
+| EDS285H5 | The Future of Ed Tech: Active Learning Classrooms and Artificial Intelligence |
+| CCT208H5 | Communications Research Methods |
+| CSC207H5 | Software Design |
+| CSC236H5 | Introduction to the Theory of Computation |
+| EDS100H5 | Introduction to Education Studies |
+| CCT211H5 | Fundamentals of User Interface Programming |
+| CCT212H5 | Hacker Culture |
+| CSC209H5 | Software Tools and Systems Programming |
+| MAT223H5 | Linear Algebra I |
+| CCT380H5 | Human-Computer Interaction and Communication |
+| CCT270H5 | Principles in Game Design |
+| CCT285H5 | Immersive Environment Design |
+| CCT320H5 | Communication, Technology, and Social Change |
+| MAT232H5 | Calculus of Several Variables |
+| STA256H5 | Probability and Statistics I |
+| CCT286H5 | Interactive Media Design |
+| CCT416H5 | Social Data Analytics |
+| CCT478H5 | UX Design — Prototyping and Evaluation |
+| CSC301H5 | Introduction to Software Engineering |
+| PEY400Y1 | Professional Experience Year Co-op |
+| CCT205H5 | Digital Innovation and Cultural Transformation |
+| CCT477H5 | UX Design — Understanding Users |
+| CCT382H5 | Prototyping Digital Games |
+| CCT432H5 | Ethics and Code |
+| CSC258H5 | Computer Organization |
+| CSC263H5 | Data Structures and Analysis |
+| CSC311H5 | Introduction to Machine Learning |
+| CSC363H5 | Computational Complexity and Computability |
+| CSC343H5 | Introduction to Databases *(in progress)* |
+
+**Upcoming coursework:**
+
+| Code | Course |
+|---|---|
+| CSC367H5 | Parallel Programming |
+| CSC373H5 | Algorithm Design and Analysis |
+| CSC384H5 | Introduction to Artificial Intelligence |
+| CSC413H5 | Neural Networks and Deep Learning |
+| CSC309H5 | Programming on the Web |
 
 ### Scrimba — Programming & Web Development
 
-*December 2020*
+*December 2020 – Present*
+
+Interactive code-learning platform with over a million users worldwide, featuring hands-on courses in programming and web development.
 
 ---
 
@@ -80,7 +141,9 @@
 - Improved onboarding by auditing, updating, and creating documentation in Confluence
 - Collaborated cross-functionally via Slack, Jira, and daily standups
 
-**Quote from Team Lead:** *"He didn't wait to be assigned tasks — he actively sought out challenges and developed creative, effective solutions."*
+**Recommendation from Stewart McKinlay (Team Lead / Supervisor), May 1, 2025:**
+
+*"Supervising Abdul during his co-op term was an absolute pleasure. He made significant contributions to our team, primarily focused on maintaining our microservices through diligent bug fixing and strategic rewrites. Abdul brought fantastic energy and a proactive mindset to the role. His 'get things done' attitude meant he didn't wait to be assigned tasks; he actively sought out challenges and developed creative, effective solutions. His reliability was outstanding, particularly in code reviews where he was often the first to respond and could always be counted on for critical PRs. Moreover, Abdul left a lasting impact by elevating our documentation practices to a new level. He's a proactive, dependable, and innovative engineer, and it was a privilege to mentor him. I highly recommend Abdul."*
 
 ---
 
@@ -103,14 +166,26 @@
 - **JavaScript** — strong foundation
 - **Python** — CLI tooling, scripting; some rust since InsideDesk
 - **SQL** — PostgreSQL; strong via formal coursework (CSC343) + self-study
+- **Go** — familiar
+- **Java** — learned via UofT coursework (CSC207, CSC148)
+- **C** — learned via UofT coursework (CSC209)
+- **C#** — familiar
+- **HTML / CSS** — strong foundation; used throughout web projects
 
 ### Frontend
 
 - **Next.js** — production-familiar; some rust, actively refreshing
 - **React** — component design, hooks; some rust, actively refreshing
-- **MUI** — used in production at InsideDesk
+- **Vue.js** — familiar
+- **Nuxt.js** — familiar
+- **Svelte** — familiar
+- **MUI (Material UI)** — used in production at InsideDesk
+- **Tailwind CSS** — familiar
+- **GSAP** — animation library; familiar
+- **Three.js** — 3D web graphics; familiar
 - **Vite** — used in production at InsideDesk
-- **Tailwind CSS** *(add proficiency level if applicable)*
+- **Responsive Design** — practiced across web projects
+- **Accessibility (W3C)** — practiced via UofT coursework (CCT380, CCT478)
 
 ### Backend
 
@@ -118,6 +193,9 @@
 - **Hono** — REST API design, routing, middleware, error handling
 - **Express** — familiar (Hono-transferable)
 - **Prisma ORM** — schema design, migrations, relations, transactions
+- **Supabase** — familiar
+- **Firebase** — familiar
+- **Stripe** — payment integration; familiar (webhook HMAC verification pattern)
 
 ### Databases
 
@@ -132,13 +210,20 @@
 - **AWS IAM** — production (roles, policies)
 - **AWS S3** — production (file storage)
 - **AWS SES / SNS** — production (MFA code delivery, notifications)
+- **AWS CLI** — familiar
 - **Docker** — Dockerfile authoring, docker-compose, multi-service local environments
 - **GitHub Actions** — CI/CD pipelines (type-check, test, lint, Docker build on push)
+- **Cloudflare** — familiar
+- **Linux / WSL** — familiar; used via UofT coursework and personal dev environment
 
-### Testing
+### Testing & Automation
 
 - **Vitest** — unit tests, integration tests, mocking, spies, test coverage
 - **Jest** — familiar (near-identical to Vitest)
+- **Jasmine** — familiar
+- **Playwright** — browser automation and end-to-end testing; familiar
+- **Puppeteer** — headless browser automation; familiar
+- **Postman** — API testing and debugging; familiar
 
 ### AI / LLM Integration
 
@@ -146,6 +231,8 @@
 - **Vercel AI SDK** — useChat, streaming UI, tool/function calling
 - **Tool calling / function calling** — understand the pattern deeply; how agents invoke real code
 - **RAG (Retrieval-Augmented Generation)** — embeddings, pgvector in Postgres, similarity search, chunking
+- **LangChain** — familiar
+- **Hugging Face** — familiar; model access and inference
 - **Ollama** — local model setup and inference (2 models configured)
 - **OpenRouter** — multi-model API access
 - **Cline** — AI coding assistant in VSCode
@@ -181,11 +268,41 @@
 ### Developer Tooling & Workflow
 
 - **VSCode** — primary IDE with Cline + Google Antigravity
+- **IntelliJ IDEA** — used via UofT coursework
+- **PyCharm** — used via UofT coursework
+- **Vim** — familiar
+- **Jupyter** — familiar; used for data/ML work
+- **Chrome DevTools** — familiar
 - **Git** — daily use, PR reviews, branching
+- **GitHub / Bitbucket** — familiar with both
 - **Jira / Confluence** — production Agile workflow
 - **Slack** — async team collaboration
 - **pnpm / npm** — package management
 - **Agile / Scrum** — daily standups, bi-weekly sprint planning, peer programming
+
+### UX / UI & Design
+
+- **Figma** — wireframing, prototyping, and UI design; used in UofT projects (CCT478, CCT477)
+- **UI Design** — component layout, visual hierarchy
+- **UX Design** — user research, usability testing, prototyping
+- **Human-Computer Interaction** — studied formally via UofT (CCT380)
+- **Web Design** — responsive and accessible design
+
+### 3D & Creative Technologies
+
+- **Unity** — familiar; game design via UofT coursework (CCT270)
+- **Three.js** — 3D web graphics; familiar
+- **Maya** — 3D modeling; familiar
+- **3D Printing** — operated 3D printers (Studica role)
+- **AutoCAD** — familiar
+- **Adobe Photoshop** — familiar
+- **Adobe Premiere Pro** — familiar
+- **Adobe Audition** — familiar
+
+### Data & Web Scraping
+
+- **Web Scraping** — deep production experience; 80+ scrapers at InsideDesk
+- **Data Scraping / Automation** — TypeScript, Puppeteer, Playwright patterns
 
 ### Awareness (know what it is, not yet hands-on)
 
@@ -204,13 +321,13 @@
 
 | Topic | Status |
 |---|---|
-| Arrays & Hashing | ✅ Complete |
-| Two Pointers | ✅ Complete |
-| Sliding Window | ✅ Complete |
-| Stack | *(check your NeetCode progress)* |
-| Binary Search | *(check your NeetCode progress)* |
+| Arrays & Hashing | 🔄 In progress (63/175) |
+| Two Pointers | Upcoming |
+| Sliding Window | Upcoming |
+| Stack | Upcoming |
+| Binary Search | Upcoming |
 | Linked List | Upcoming |
-| Trees (BFS, DFS) | 🔄 In progress |
+| Trees (BFS, DFS) | Upcoming |
 | Tries | Upcoming |
 | Heap / Priority Queue | Upcoming |
 | Graphs (BFS, DFS) | Upcoming |
@@ -222,19 +339,56 @@
 
 ## Personal Projects
 
-*(Add your own projects here — include: what it does, tech stack, link, anything notable about scale or design decisions)*
+### Acme De La Vie App Wireframe
+
+*Associated with University of Toronto*
+
+A Figma wireframe for a mobile app based on the Acme De La Vie clothing store website. Built in a group of 4, grounded in extensive background and user research.
+
+**Tools:** Figma, UX research methods
+
+---
+
+### Car Dashboard Wireframe
+
+*Associated with University of Toronto*
+
+A Figma wireframe for a Car Infotainment Dashboard — an enhanced version of current solutions prioritizing practical, safe usage and superior aesthetics. Designed collaboratively with my sister.
+
+**Tools:** Figma, UI/UX design
+
+---
+
+*(Add more projects here — include: what it does, tech stack, link, anything notable about scale or design decisions)*
 
 ---
 
 ## YouTube Channel
 
-*(Add: channel name, handle/URL, content focus, approximate subscriber count, number of videos, any notable videos or series)*
+- **Handle:** [@learningexpressway](https://www.youtube.com/@learningexpressway/)
+- **Shopify Store:** [learningexpressway.com](https://learningexpressway.com/)
+- **Content focus:** AI tools, learning strategies, and practical technology — helping others level up their skills
+- *(Add: approximate subscriber count, number of videos, any notable videos or series)*
 
 ---
 
 ## Other Notable Info
 
-*(Add anything else relevant: hackathons, open source contributions, awards, volunteering, extracurriculars, etc.)*
+### Volunteering
+
+**Activity Leader — STEM1**
+*May 2019 – June 2019 (2 months) | Education*
+- Completed 3 days of object-oriented programming training
+- Prepared and set up equipment on event day
+- Taught and led student STEM-centred activities for participants
+
+**Link Crew Student Leader — Rick Hansen Secondary School**
+*September 2019 – June 2020 (10 months) | Education*
+- Discussed and planned social events for students
+- Advertised events and social gatherings using flyers and online posts
+- Led assigned student group through various social and fun activities
+
+*(Add anything else relevant: hackathons, open source contributions, awards, extracurriculars, etc.)*
 
 ---
 
