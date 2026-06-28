@@ -9,11 +9,11 @@
 | | |
 |---|---|
 | **Email** | <ahkn63@gmail.com> |
-| **LinkedIn** | [linkedin.com/in/abdul-hadikhan](https://www.linkedin.com/in/abdul-hadikhan) |
+| **LinkedIn** | [in/abdul-hadi-khan](https://www.linkedin.com/in/abdul-hadi-khan) |
 | **Location** | Mississauga, Ontario, Canada |
-| **YouTube** | *(see YouTube section below)* |
-| **GitHub** | *(add your GitHub URL here)* |
-| **Portfolio** | *(add if applicable)* |
+| **YouTube** | [@learningexpressway](https://www.youtube.com/@learningexpressway/) |
+| **GitHub** | [AbdulDevHub](https://github.com/AbdulDevHub/) |
+| **Portfolio** | [AbdulHadiKhan](https://abdulhadikhan.vercel.app/) |
 
 ---
 
