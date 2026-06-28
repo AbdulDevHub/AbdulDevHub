@@ -169,8 +169,10 @@ Interactive code-learning platform with over a million users worldwide, featurin
 - **Go** — familiar
 - **Java** — learned via UofT coursework (CSC207, CSC148)
 - **C** — learned via UofT coursework (CSC209)
-- **C#** — familiar
+- **C#** — familiar; used in Unity games (Sunken Secrets, Surf n' Turf, Shadow of a Doubt)
+- **Kotlin** — Android development; used in Android Mountain learning project
 - **HTML / CSS** — strong foundation; used throughout web projects
+- **Liquid** — Shopify templating language; used in Learning Expressway theme customization
 
 ### Frontend
 
@@ -184,6 +186,9 @@ Interactive code-learning platform with over a million users worldwide, featurin
 - **GSAP** — animation library; familiar
 - **Three.js** — 3D web graphics; familiar
 - **Vite** — used in production at InsideDesk
+- **Anime.js** — JavaScript animation library; used in Console Wars Exhibition (3D sphere)
+- **Plyr.js** — custom HTML5 video player; used in Console Wars Exhibition
+- **Prismic** — headless CMS with page builder; used in Glisten AI project
 - **Responsive Design** — practiced across web projects
 - **Accessibility (W3C)** — practiced via UofT coursework (CCT380, CCT478)
 
@@ -309,8 +314,12 @@ Interactive code-learning platform with over a million users worldwide, featurin
 - **gensim** — topic modelling and document similarity (LDA)
 - **matplotlib** — data visualization
 - **pyLDAvis** — interactive topic model visualization
-- **Electron** — cross-platform desktop app framework; used in NoteMark project
+- **Pygame** — Python game development library; used in Space Invaders project
+- **Electron** — cross-platform desktop app framework; used in NoteMark and Electron Mountain
 - **Tkinter** — Python GUI framework; used in Todoist desktop app
+- **Jetpack Compose** — Android declarative UI toolkit; used in Android Mountain
+- **Android Studio** — Android IDE; used in Android Mountain
+- **Shopify / Liquid** — e-commerce platform and templating; used in Learning Expressway theme
 
 ### Awareness (know what it is, not yet hands-on)
 
@@ -349,7 +358,7 @@ Interactive code-learning platform with over a million users worldwide, featurin
 
 ### Acme De La Vie App Wireframe
 
-*Associated with University of Toronto*
+*Associated with University of Toronto* | [View on Figma](https://www.figma.com/design/kADx4p9ZRCVGOGD0eeHWUJ/Acme-De-La-Vie-App-Design)
 
 A Figma wireframe for a mobile app based on the Acme De La Vie clothing store website. Built in a group of 4, grounded in extensive background and user research.
 
@@ -359,15 +368,117 @@ A Figma wireframe for a mobile app based on the Acme De La Vie clothing store we
 
 ### Car Dashboard Wireframe
 
-*Associated with University of Toronto*
+*Associated with University of Toronto* | [View on Figma](https://www.figma.com/design/rijactiaEXwzbgVDGUCeh7/CCT478-PROJECT-1---Safety-Critical-Systems-Design)
 
-A Figma wireframe for a Car Infotainment Dashboard — an enhanced version of current solutions prioritizing practical, safe usage and superior aesthetics. Designed collaboratively with my sister.
+A Figma wireframe for a Car Infotainment Dashboard — an enhanced version of current solutions prioritizing practical, safe usage and superior aesthetics. Designed collaboratively with my sister (CCT478: UX Design — Prototyping and Evaluation).
 
 **Tools:** Figma, UI/UX design
 
 ---
 
 *(Add more projects here — include: what it does, tech stack, link, anything notable about scale or design decisions)*
+
+---
+
+### Glisten AI
+
+**GitHub:** [AbdulDevHub/Glisten-AI](https://github.com/AbdulDevHub/Glisten-AI) | [Live](https://glisten-ai-dark.vercel.app/)
+
+A sleek, dark, animated marketing website in the style of Linear, Raycast, and Clerk. Features GSAP scroll and load animations, and Prismic as a headless CMS for content management.
+
+**Stack:** Next.js 14, TypeScript, GSAP, Prismic (headless CMS), Tailwind CSS, Vercel
+
+---
+
+### Console Wars Exhibition
+
+**GitHub:** [AbdulDevHub/Console-Wars](https://github.com/AbdulDevHub/Console-Wars)
+
+An interactive digital exhibition exploring video game console competition from 1989–2005 (Nintendo vs. Sega vs. Sony vs. Microsoft). Features 16 curated artifacts with historical analysis and citations, a 3D animated landing page, keyboard navigation, image lightbox, and a custom video player. Content is data-driven via a JSON file.
+
+**Stack:** HTML5, CSS3, Vanilla JavaScript, Anime.js (3D sphere animation), Plyr.js (video player), Lucide Icons
+
+---
+
+### Surf n' Turf
+
+**GitHub:** [AbdulDevHub/SurfNTurf](https://github.com/AbdulDevHub/SurfNTurf)
+
+A strategic tower defence game built with team Moonlight Games (4 members). Defend Clearwater from radioactive fish across 20 waves of increasing difficulty. Features three distinct tower types with upgrade paths, dynamic map events (dam breaks that open new enemy routes), resource management, and a 200-health boss in the final wave.
+
+**Stack:** Unity, C#, game design document | **Team:** Joshua Andreou, Philippe Filiatreault, Abdul Khan, Clara Joy Tan
+
+---
+
+### Shadow of a Doubt
+
+**GitHub:** [AbdulDevHub/Shadow-of-a-Doubt](https://github.com/AbdulDevHub/Shadow-of-a-Doubt)
+
+A first-person magic shooter where you play as a black cat defending a haunted witch's house. Features elemental spell combat (fire, water, wind) with enemy type weaknesses, wave-based progression across 3 levels, a final boss with changing elemental shields, and multiple endings based on performance.
+
+**Stack:** Unity, C#, game design document
+
+---
+
+### Android Mountain
+
+**GitHub:** [AbdulDevHub/Android-Mountain](https://github.com/AbdulDevHub/Android-Mountain)
+
+A learning log of 6 Android apps built while following Google's official codelabs and tutorials. Projects cover state management, LazyColumn lists, user input, composable theming, and app logic.
+
+**Apps:** Happy Birthday, Greeting Card, Dice Roller, Lemonade, Affirmations, Tip Calculator
+
+**Stack:** Kotlin, Jetpack Compose, Gradle (Kotlin DSL), Android Studio
+
+---
+
+### Electron Mountain
+
+**GitHub:** [AbdulDevHub/Electron-Mountain](https://github.com/AbdulDevHub/Electron-Mountain)
+
+Two cross-platform Electron desktop tools: a screen recorder (select window or stream, works on macOS/Windows/Linux) and an image resizer (select image, set width/height). Both built with Node.js and packaged via Electron Forge.
+
+**Stack:** Electron.js, Node.js, JavaScript, npm
+
+---
+
+### UTM Student Portal
+
+**GitHub:** [AbdulDevHub/UTM-Student-Portal](https://github.com/AbdulDevHub/UTM-Student-Portal) | [Live](https://utmstudentportal.netlify.app/)
+
+An unofficial student resource hub for the University of Toronto Mississauga. Centralizes academic tools, campus updates, exam schedules, an interactive campus map, transit info, degree planning, and employment opportunities.
+
+**Stack:** HTML, CSS, JavaScript, Netlify
+
+---
+
+### Huffman Zip
+
+**GitHub:** [AbdulDevHub/Huffman-Zip](https://github.com/AbdulDevHub/Huffman-Zip)
+
+A Python CLI tool that implements lossless file compression and decompression using Huffman binary trees. Supports any file type and achieves an average 1.5:1 compression ratio. Includes a profiling mode to benchmark runtime and compression performance across iterations.
+
+**Stack:** Python, command-line, PyCharm/VSCode
+
+---
+
+### Space Invaders
+
+**GitHub:** [AbdulDevHub/Space-Invaders](https://github.com/AbdulDevHub/Space-Invaders)
+
+An advanced version of the classic Space Invaders arcade game. Features randomly spawning enemies, a giant final boss, dynamic music tied to game state, and collectible power-ups.
+
+**Stack:** Python, Pygame
+
+---
+
+### Learning Expressway — Custom Shopify Theme
+
+**GitHub:** [AbdulDevHub/Learning-Expressway](https://github.com/AbdulDevHub/Learning-Expressway) | [Store](https://learningexpressway.com/)
+
+A heavily customized version of Shopify's Dawn theme for the Learning Expressway storefront. Modifications include custom spacing, typography, product card layouts, header/nav behavior, cart animations, and JS interaction enhancements — all done directly in theme files (no page builders). Designed by studying and reverse-engineering layout patterns from high-performing Shopify stores.
+
+**Stack:** Shopify, Liquid (Shopify templating), CSS, JavaScript, Dawn theme
 
 ---
 
