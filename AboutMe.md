@@ -34,6 +34,7 @@
 *August 2021 – April 2027 (expected)*
 
 **Skills developed:**
+
 - Practiced UI/UX design & Human-Computer Interaction using Figma and W3C accessibility standards
 - Applied software development skills in Python, Java, TypeScript, and C, focusing on clean, maintainable code
 - Used Git and GitHub for version control and team collaboration
@@ -166,7 +167,7 @@ Interactive code-learning platform with over a million users worldwide, featurin
 - **JavaScript** — strong foundation
 - **Python** — CLI tooling, scripting; some rust since InsideDesk
 - **SQL** — PostgreSQL; strong via formal coursework (CSC343) + self-study
-- **Go** — familiar
+- **Go** — used in Opal Labs backend (team project); REST API, PostgreSQL, Redis, Go testing framework
 - **Java** — learned via UofT coursework (CSC207, CSC148)
 - **C** — learned via UofT coursework (CSC209)
 - **C#** — familiar; used in Unity games (Sunken Secrets, Surf n' Turf, Shadow of a Doubt)
@@ -178,17 +179,20 @@ Interactive code-learning platform with over a million users worldwide, featurin
 
 - **Next.js** — production-familiar; some rust, actively refreshing
 - **React** — component design, hooks; some rust, actively refreshing
+- **Redux Toolkit** — global state management; used in Filmverse
 - **Vue.js** — familiar
 - **Nuxt.js** — familiar
 - **Svelte** — familiar
 - **MUI (Material UI)** — used in production at InsideDesk
+- **shadcn-ui** — accessible component library; used in CaseCobra
 - **Tailwind CSS** — familiar
 - **GSAP** — animation library; familiar
-- **Three.js** — 3D web graphics; familiar
+- **Three.js** — 3D web graphics; used in Portfolio V2
 - **Vite** — used in production at InsideDesk
 - **Anime.js** — JavaScript animation library; used in Console Wars Exhibition (3D sphere)
 - **Plyr.js** — custom HTML5 video player; used in Console Wars Exhibition
 - **Prismic** — headless CMS with page builder; used in Glisten AI project
+- **Storybook** — component development and documentation; used in Opal Labs
 - **Responsive Design** — practiced across web projects
 - **Accessibility (W3C)** — practiced via UofT coursework (CCT380, CCT478)
 
@@ -238,6 +242,7 @@ Interactive code-learning platform with over a million users worldwide, featurin
 - **RAG (Retrieval-Augmented Generation)** — embeddings, pgvector in Postgres, similarity search, chunking
 - **LangChain** — familiar
 - **Hugging Face** — familiar; model access and inference
+- **Alan AI** — voice assistant SDK; integrated into Filmverse for voice-controlled navigation
 - **Ollama** — local model setup and inference (2 models configured)
 - **OpenRouter** — multi-model API access
 - **Cline** — AI coding assistant in VSCode
@@ -249,10 +254,12 @@ Interactive code-learning platform with over a million users worldwide, featurin
 - **JWT** — manual implementation (sign, verify, refresh tokens) using jsonwebtoken
 - **bcrypt** — password hashing and comparison
 - **Auth.js / NextAuth v5** — OAuth (GitHub, Google), session management, route protection
+- **Kinde Auth** — authentication provider; used in CaseCobra e-commerce project
 - **CORS** — proper origin allowlist configuration
 - **Helmet** — HTTP security headers (CSP, X-Frame-Options, etc.)
 - **Webhooks** — receiving and verifying HMAC-SHA256 signatures (Stripe pattern)
 - **Environment validation** — Zod-based process.env parsing at startup
+- **Formspree** — contact form backend; used in Portfolio V1
 
 ### Background Jobs
 
@@ -282,8 +289,12 @@ Interactive code-learning platform with over a million users worldwide, featurin
 - **GitHub / Bitbucket** — familiar with both
 - **Jira / Confluence** — production Agile workflow
 - **Slack** — async team collaboration
-- **pnpm / npm** — package management
+- **pnpm / npm / yarn** — package management
+- **Husky** — Git hooks for pre-push lint/type-check; used in Opal Labs
 - **Agile / Scrum** — daily standups, bi-weekly sprint planning, peer programming
+- **Chrome Extensions (Manifest V3)** — built 4 extensions: Local Video Player, Hydration Hero, Gallery Viewer, Linkest
+- **Tampermonkey / Userscripts** — authored 8 browser userscripts for cross-site QoL improvements
+- **Serverless / Netlify Functions** — used in Readmeify (SVG proxy, stats cards)
 
 ### UX / UI & Design
 
@@ -329,12 +340,32 @@ Interactive code-learning platform with over a million users worldwide, featurin
 - **Stagehand / Browserbase** — browser automation for AI agents
 - **PostHog** — product analytics and session tracking
 
+### Systems & Low-Level Programming
+
+- **RISC-V Assembly** — written ~1,000-line survival horror game (Shadow In The Dark) in RISC-V assembly; covers pipelining, cache optimization, syscalls, LCG random number generation, Manhattan distance pathfinding, heap allocation via `sbrk`, and multiplayer with bubble-sort leaderboard; tools: CPU-Lator, Ripes
+- **Computer Architecture** — pipelining (5-stage: IF/ID/EX/MEM/WB), data hazards, forwarding, cache locality; via UofT CSC258
+
+### Additional Frameworks & Tools
+
+- **FastAPI** — Python async web framework; used in Inventory Server (team distributed systems project) with asyncpg and aiohttp
+- **Angular** — familiar; built Angular Webshop in Framework Mountain
+- **SvelteKit** — familiar; used in Framework Mountain Portfolio Valley
+- **Vuetify** — Vue UI component library; used in Framework Mountain
+- **Docusaurus** — static site/knowledge base generator; used in Dev Mountain
+- **nginx** — reverse proxy and load balancer; used in Inventory Server (UofT distributed systems project)
+- **Twine** — interactive narrative / branching story tool; used in The Twine Interview (UofT project)
+- **Blender** — 3D modeling software; familiar
+- **PowerShell** — Windows scripting; familiar
+- **yt-dlp / FFmpeg** — video downloading and media processing CLI tools
+
 ---
 
-## DSA Progress (NeetCode Roadmap — LeetCode)
+## DSA Progress (NeetCode + LeetCode Roadmap)
 
-**Pace:** 1–2 problems/day consistently since starting  
-**Problems completed:** ~40+ (as of end of week 5)
+**Pace:** 2 problems/day consistently since starting  
+**GitHub:** [AbdulDevHub/Leetcode-Submissions](https://github.com/AbdulDevHub/Leetcode-Submissions) — solutions auto-synced from NeetCode on every submission; LeetCode solutions also synced weekly via GitHub Actions
+
+**Problems completed:** [LeetCode](https://leetcode.com/u/HelionImperion/)
 
 | Topic | Status |
 |---|---|
@@ -350,7 +381,7 @@ Interactive code-learning platform with over a million users worldwide, featurin
 | Graphs (BFS, DFS) | Upcoming |
 | Dynamic Programming | Upcoming |
 
-**Language used:** TypeScript
+**Language used:** Python, TypeScript
 
 ---
 
@@ -482,6 +513,119 @@ A heavily customized version of Shopify's Dawn theme for the Learning Expressway
 
 ---
 
+### Portfolio Website V1
+
+**GitHub:** [AbdulDevHub/Portfolio-Website-V1](https://github.com/AbdulDevHub/Portfolio-Website-V1) | [Live](https://abdulhadikhan.netlify.app/)
+
+My first personal portfolio site built with vanilla HTML, CSS, and JavaScript. Projects and skills load dynamically from JSON files. Achieved strong Google Lighthouse scores through semantic HTML, deferred JS, LCP optimization, ARIA labels, and proper heading hierarchy. Includes a Formspree contact form and Materialize CSS ripple effects.
+
+**Stack:** HTML5, CSS3, JavaScript (ES6+), Materialize CSS, Formspree, FontAwesome, JSON, Netlify
+
+---
+
+### Portfolio Website V2
+
+**GitHub:** [AbdulDevHub/Portfolio-Website-V2](https://github.com/AbdulDevHub/Portfolio-Website-V2) | [Live](https://abdulhadikhan.vercel.app/)
+
+My current 3D portfolio website built with Next.js and Three.js, showcasing projects, skills, experience, and testimonials.
+
+**Stack:** Next.js, Three.js, JavaScript, Vercel
+
+---
+
+### Opal Labs (Full-Stack — Team Project)
+
+**GitHub (Frontend):** [AbdulDevHub/Opal-Labs-Frontend](https://github.com/AbdulDevHub/Opal-Labs-Frontend) | [Live](https://opal-labs.vercel.app/)
+**GitHub (Backend):** [AbdulDevHub/Opal-Labs-Backend](https://github.com/AbdulDevHub/Opal-Labs-Backend)
+
+A Notion-like productivity platform built collaboratively with a **team of 7 developers**. The frontend is a Next.js App Router app with Playwright E2E tests, Storybook for component development, Husky pre-push hooks, and GitHub Actions CI/CD. The backend is written in Go with PostgreSQL and Redis, using Google OAuth 2.0 for authentication. Deployed on Vercel (frontend) and Render (backend).
+
+**Frontend stack:** Next.js (App Router), TypeScript, Google OAuth 2.0, Playwright, Storybook, Husky, GitHub Actions, Vercel, yarn
+**Backend stack:** Go, PostgreSQL, Redis, Google OAuth 2.0, Go testing framework
+**Methodology:** Agile (team of 7)
+
+---
+
+### Filmverse
+
+**GitHub:** [AbdulDevHub/Filmverse](https://github.com/AbdulDevHub/Filmverse) | [Live](https://filmverse-azure.vercel.app/)
+
+A movie discovery web app with user authentication, light/dark mode, genre browsing, search, favorites, watchlists, pagination, and a **voice-controlled interface powered by Alan AI**. Integrates with the TMDB API for movie and actor data.
+
+**Stack:** React.js, Redux Toolkit, React Router, MUI, TMDB API, Alan AI (voice assistant), Create React App, Vercel
+
+---
+
+### CaseCobra — Custom Phone Case Shop
+
+**GitHub:** [AbdulDevHub/Case-Cobra](https://github.com/AbdulDevHub/Case-Cobra)
+
+A full-stack e-commerce shop for custom phone cases. Features a drag-and-drop phone case configurator, secret admin dashboard for order management, Stripe payments, Kinde authentication, and transactional thank-you emails. Built on Next.js 14 App Router with shadcn-ui.
+
+**Stack:** Next.js 14, TypeScript, PostgreSQL, Tailwind CSS, shadcn-ui, Stripe, Kinde Auth, drag-and-drop file uploads
+
+---
+
+### Local Video Player — Chrome Extension
+
+**GitHub:** [AbdulDevHub/Local-Video-Player](https://github.com/AbdulDevHub/Local-Video-Player)
+
+A feature-rich Chrome extension for playing local video files. Highlights include volume amplification up to 500%, resume-from-position (localStorage), fine-grained speed controls (0.1x–16x), Picture-in-Picture, Global Media Controls integration, and extensive keyboard shortcuts. Works fully offline.
+
+**Stack:** Vanilla JavaScript, HTML, CSS, Chrome Extension APIs
+
+---
+
+### Hydration Hero — Chrome Extension
+
+**GitHub:** [AbdulDevHub/Hydration-Hero](https://github.com/AbdulDevHub/Hydration-Hero)
+
+A privacy-first Chrome extension for tracking daily water intake. Logs drinks with customizable volumes, tracks progress toward daily goals, shows timestamped history, and auto-resets at midnight. All data stays local via Chrome Storage API. Dockerized for consistent dev/build without requiring a local Node environment.
+
+**Stack:** React, Vite, Tailwind CSS, Chrome Extension APIs (Storage), Docker, pnpm
+
+---
+
+### Gallery Viewer — Chrome Extension
+
+**GitHub:** [AbdulDevHub/Gallery-Viewer](https://github.com/AbdulDevHub/Gallery-Viewer)
+
+An offline-first Chrome extension for browsing large image and video galleries. Supports folder loading (recursive), video frame extraction, flexible grid layouts (1–24 images/row), three zoom modes (off / click / magnifying lens), folder bookmarks to resume where you left off, and a distraction-free spotlight mode. Opened via Alt+G shortcut.
+
+**Stack:** Vanilla HTML, CSS, JavaScript, Chrome Extensions (Manifest V3)
+
+---
+
+### Tampermonkey Scripts
+
+**GitHub:** [AbdulDevHub/Tapermonkey-Scripts](https://github.com/AbdulDevHub/Tapermonkey-Scripts)
+
+A collection of 8 personal Tampermonkey userscripts for browser quality-of-life improvements: disabling Bing scroll-into-Copilot behavior, fullscreen toggle (Shift+Alt+F), scrollbar hiding, horizontal-to-vertical scroll remapping, Sketchfab model downloader (JSZip + FileSaver), video aspect ratio stretcher for 16:10 screens, Webtoon dark mode, and YouTube Shorts redirect to standard watch URLs.
+
+**Stack:** Vanilla JavaScript, Tampermonkey userscripts, JSZip, FileSaver.js
+
+---
+
+### Readmeify
+
+**GitHub:** [AbdulDevHub/Readmeify](https://github.com/AbdulDevHub/Readmeify)
+
+A monorepo of three independently deployed serverless tools for customizing GitHub profile READMEs: a custom-themed SVG proxy for 3D contribution graphs (Netlify), a self-hosted GitHub stats card generator, and a contribution streak tracker (both on Vercel). Demonstrates serverless deployment and monorepo CI architecture.
+
+**Stack:** JavaScript, serverless functions, Netlify, Vercel
+
+---
+
+### DhikrForest (Zikr)
+
+**GitHub:** [AbdulDevHub/DhikrForest](https://github.com/AbdulDevHub/DhikrForest)
+
+A single-file, offline-first dhikr (Islamic remembrance) counter that visualizes worship as a growing forest. Each recitation plants a tree; up to 1,500 trees are rendered live. Features two dhikr types, Laylatul Qadr mode (×1000 multiplier), milestone toast notifications, localStorage persistence, and full keyboard support — zero dependencies, no build step.
+
+**Stack:** Vanilla HTML, CSS, JavaScript (single file), localStorage
+
+---
+
 ### Reddit Data Scraping
 
 **GitHub:** [AbdulDevHub/Reddit-Data-Scrapping](https://github.com/AbdulDevHub/Reddit-Data-Scrapping)
@@ -551,6 +695,100 @@ A desktop task management application built in Python. Supports creating, editin
 
 ---
 
+### Exceptional University Projects
+
+**GitHub:** [AbdulDevHub/Exceptional-University-Projects](https://github.com/AbdulDevHub/Exceptional-University-Projects)
+
+A curated collection of notable academic software projects from UofT, spanning Java, Python, RISC-V Assembly, distributed systems, and interactive media.
+
+**Sub-projects:**
+
+**Shadow In The Dark** *(flagship — ~1,000 lines of RISC-V assembly)*
+A full-featured turn-based survival horror game written entirely in RISC-V assembly. Features: procedural map generation using a Park-Miller LCG seeded with system time, Manhattan distance AI pathfinding for the shadow monster, Chebyshev distance proximity detection, an unlimited undo stack (4KB buffer, 512 states × 8 bytes), dynamic heap allocation via `sbrk` for multiplayer mode, and a bubble-sort leaderboard. 13 modular subroutines with proper caller/callee register conventions and nested calls up to 4 levels deep.
+
+**Inventory Server** *(distributed microservices — team project)*
+A distributed inventory management backend with 5 services (OrderService, UserService, ProductService, ISCS router, nginx load balancer). Features: async REST APIs with FastAPI + asyncpg, Redis caching with automatic invalidation, PostgreSQL row-level locking for race condition protection, Docker Compose orchestration, and LAN multi-machine deployment support.
+
+**Boggle Game** — Full Java implementation with OOP design, file I/O persistence, dictionary validation, unit tests
+
+**CS Labs** — Across CSC148 (Python: trees, BSTs, linked lists, recursion, TimSort), CSC207 (Java: Observer, Decorator, Adapter, Visitor design patterns, AST evaluator, Braille translator), CSC258 (RISC-V: pipelining, cache optimization, syscall I/O)
+
+**Map Plotting & Search** — Python app modelling phone calls and billing with data visualization
+
+**The Twine Interview** — Interactive narrative game built with Twine and HTML exploring bias and systemic inequality through branching dialogue
+
+**Stack (combined):** Java, Python, RISC-V Assembly, FastAPI, asyncpg, aiohttp, PostgreSQL, Redis, Docker, nginx, Twine, HTML
+
+---
+
+### Framework Mountain
+
+**GitHub:** [AbdulDevHub/Framework-Mountain](https://github.com/AbdulDevHub/Framework-Mountain)
+
+A monorepo of 30+ web development projects organized into themed Valleys for hands-on learning across diverse frameworks and domains. Uses both Git submodules (Filmverse) and Git subtrees (Git-Practice).
+
+**Valley highlights:**
+
+- **Backend Valley** — Hono REST API with Prisma + Supabase + Vitest; Redis learning; Next.js + FastAPI integration
+- **Tech Experiments** — CI/CD GitHub Actions reference; Vitest unit/integration testing; NextAuth v5 OAuth; RAG demo (Ollama + PGVector + Python); BullMQ email queue demo; Webhook verification (Stripe + HMAC-SHA256); Pino structured logging; CLI chat app (Ollama + Anthropic, streaming, role history)
+- **Web App Valley** — Vercel AI Chat (Next.js 16, Vercel AI SDK v6, Ollama streaming + tool calling); Job Pilot (AI job search, BrowserBase); Angular Webshop; Netflix UI clone; Vue 3 Job Board
+- **Portfolio Valley** — 5 portfolio concepts (Three.js solar system, SvelteKit CMS-driven, Next.js with motion/video, React + Vite, animated Next.js)
+- **Game Valley** — Flappy Bird clone (Canvas API)
+- **Component Valley** — Svelte animated login form, interactive pay card, Vuetify image gallery
+- **Data Scrape Valley** — Puppeteer bookstore scraper, blog scraper, dental PMS scraper
+
+**Stack:** React, Next.js, Angular, Vue 3, Svelte, SvelteKit, TypeScript, Tailwind CSS, Three.js, Vercel AI SDK, Ollama, Anthropic, BullMQ, Redis, PostgreSQL, PGVector, Puppeteer, Docker, GitHub Actions
+
+---
+
+### Web Mountain
+
+**GitHub:** [AbdulDevHub/Web-Mountain](https://github.com/AbdulDevHub/Web-Mountain)
+
+A living archive of 50+ frontend experiments, UI concepts, and interactive web utilities organized into four categories: Awesome Websites (Pokédex, card games UNO/War, QR code generator, file utilities), UI Experiments (food delivery UI, drone showcase, parallax photography gallery), Awesome Effects (WebGL fluid simulations, GPU-accelerated ink dispersion, particle systems, 3D cube/image effects, fire cursor, Anime.js sphere), and Chrome Extensions (Gallery Bookmark Viewer).
+
+**Stack:** HTML5, CSS3, JavaScript, Anime.js, WebGL, GPU.js, Canvas API, jQuery, Bootstrap
+
+---
+
+### Dev Mountain
+
+**GitHub:** [AbdulDevHub/Dev-Mountain](https://github.com/AbdulDevHub/Dev-Mountain)
+
+A curated developer knowledge base built with Docusaurus. Houses dev resources, UI/UX inspiration, motion design references, workflow guides, and blog posts. Deployed to GitHub Pages or Vercel.
+
+**Stack:** Docusaurus, React, TypeScript, Markdown, yarn
+
+---
+
+### Linkest — Chrome Extension
+
+**GitHub:** [AbdulDevHub/Linkest](https://github.com/AbdulDevHub/Linkest)
+
+A Chrome extension for link and note management. Features: one-click tab URL saving, smart URL vs. plain-text detection (auto-opens non-URLs as Google search), multi-select with shift-range and Ctrl+A, batch tab opening, position-based insertion ("N. text" format), local file browser, and persistent localStorage. Full keyboard shortcut support throughout.
+
+**Stack:** Vanilla JavaScript, HTML, CSS, Chrome Extension APIs, localStorage
+
+---
+
+### Video Download & Edit
+
+**GitHub:** [AbdulDevHub/Video-Download-Edit](https://github.com/AbdulDevHub/Video-Download-Edit)
+
+A portable Windows setup bundling yt-dlp and FFmpeg executables for downloading and processing video/audio without system-wide installation. Supports batch downloads, audio extraction, format conversion, and download resumption.
+
+**Stack:** yt-dlp, FFmpeg, PowerShell/Windows terminal
+
+---
+
+### GitHub Profile README
+
+**GitHub:** [AbdulDevHub/AbdulDevHub](https://github.com/AbdulDevHub/AbdulDevHub)
+
+Custom GitHub profile README featuring animated coding GIF, language/tools icon grid, GitHub stats cards, contribution streak, 3D contribution graph (via Readmeify SVG proxy), and a contribution snake animation powered by GitHub Actions.
+
+---
+
 ## YouTube Channel
 
 - **Handle:** [@learningexpressway](https://www.youtube.com/@learningexpressway/)
@@ -566,12 +804,14 @@ A desktop task management application built in Python. Supports creating, editin
 
 **Activity Leader — STEM1**
 *May 2019 – June 2019 (2 months) | Education*
+
 - Completed 3 days of object-oriented programming training
 - Prepared and set up equipment on event day
 - Taught and led student STEM-centred activities for participants
 
 **Link Crew Student Leader — Rick Hansen Secondary School**
 *September 2019 – June 2020 (10 months) | Education*
+
 - Discussed and planned social events for students
 - Advertised events and social gatherings using flyers and online posts
 - Led assigned student group through various social and fun activities
