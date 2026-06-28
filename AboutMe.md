@@ -290,19 +290,27 @@ Interactive code-learning platform with over a million users worldwide, featurin
 
 ### 3D & Creative Technologies
 
-- **Unity** — familiar; game design via UofT coursework (CCT270)
+- **Unity** — built Sunken Secrets, a full 3D underwater game with AI enemies, dynamic audio, and a browser-playable build (UofT coursework + personal project)
 - **Three.js** — 3D web graphics; familiar
-- **Maya** — 3D modeling; familiar
+- **Maya** — 3D modeling; used in Sunken Secrets for environment and character assets
 - **3D Printing** — operated 3D printers (Studica role)
 - **AutoCAD** — familiar
 - **Adobe Photoshop** — familiar
 - **Adobe Premiere Pro** — familiar
-- **Adobe Audition** — familiar
+- **Adobe Audition** — used in Sunken Secrets for dynamic in-game audio
 
 ### Data & Web Scraping
 
 - **Web Scraping** — deep production experience; 80+ scrapers at InsideDesk
 - **Data Scraping / Automation** — TypeScript, Puppeteer, Playwright patterns
+- **PRAW** — Python Reddit API Wrapper; used for Reddit data collection project
+- **pandas** — data manipulation and analysis
+- **nltk** — natural language processing (tokenization, sentiment, etc.)
+- **gensim** — topic modelling and document similarity (LDA)
+- **matplotlib** — data visualization
+- **pyLDAvis** — interactive topic model visualization
+- **Electron** — cross-platform desktop app framework; used in NoteMark project
+- **Tkinter** — Python GUI framework; used in Todoist desktop app
 
 ### Awareness (know what it is, not yet hands-on)
 
@@ -360,6 +368,75 @@ A Figma wireframe for a Car Infotainment Dashboard — an enhanced version of cu
 ---
 
 *(Add more projects here — include: what it does, tech stack, link, anything notable about scale or design decisions)*
+
+---
+
+### Reddit Data Scraping
+
+**GitHub:** [AbdulDevHub/Reddit-Data-Scrapping](https://github.com/AbdulDevHub/Reddit-Data-Scrapping)
+
+Scraped and analyzed Reddit data using the PRAW API wrapper. Performed NLP and topic modelling on the results and produced interactive visualizations. Delivered findings as a Jupyter notebook, PDF, and PowerPoint.
+
+**Stack:** Python, PRAW, pandas, nltk, gensim (topic modelling), matplotlib, pyLDAvis, wordcloud, Jupyter
+
+---
+
+### AI Mountain — AI Mini-Apps Collection
+
+**GitHub:** [AbdulDevHub/AI-Mountain](https://github.com/AbdulDevHub/AI-Mountain)
+
+A collection of 8 AI-powered mini-apps demonstrating practical use of LLMs and ML models:
+
+- **AI Art Generator** — DALL-E image generation
+- **AI Stock App** — ChatGPT-based stock trend prediction ([live](https://stock-predictions-ai-app.pages.dev/))
+- **AI Translator** — ChatGPT-powered multilingual translation
+- **Colorize Image AI App** — Hugging Face model to colorize black-and-white images
+- **Movie Focus Chatbot** — ChatGPT chatbot for movie info and recommendations
+- **ReAct AI Agent with Chat UI** — ChatGPT agent that executes real functions (e.g. weather lookup) from natural language prompts; implements the ReAct (Reason + Act) pattern
+- **Text To Speech** — Hugging Face TTS model
+- **Vision AI App** — Hugging Face image analysis and interpretation
+
+**Stack:** JavaScript, ChatGPT API, DALL-E, Hugging Face, React/HTML/CSS
+
+---
+
+### NoteMark
+
+**GitHub:** [AbdulDevHub/NoteMark](https://github.com/AbdulDevHub/NoteMark)
+
+A cross-platform desktop note-taking app with native Markdown support. Installable on Mac, Windows, and Linux. Built with Electron and React.
+
+**Stack:** Electron, React, TypeScript/JavaScript, Markdown, yarn
+
+---
+
+### Sunken Secrets: The Treasure Of The Three Keys
+
+**GitHub:** [AbdulDevHub/Sunken-Secrets](https://github.com/AbdulDevHub/Sunken-Secrets) | [Play Online](https://play.unity.com/mg/other/online-build-3)
+
+An immersive 3D underwater adventure game set in the Bermuda Triangle. Features dynamic music that adapts to game state, roaming AI enemies (sharks), and an original narrative with environmental storytelling. Shipped with both a desktop build and a browser-playable online build.
+
+**Stack:** Unity, C#, Maya (3D modeling), Adobe Audition (audio), game design document
+
+---
+
+### Modern AliExpress (E-Commerce Clone)
+
+**GitHub:** [AbdulDevHub/Modern-AliExpress](https://github.com/AbdulDevHub/Modern-AliExpress) | [Live](https://modern-aliexpress.vercel.app/)
+
+A full-stack e-commerce web app cloning AliExpress with a modernized UI. Includes Google and GitHub OAuth, Stripe payment integration, and a Supabase-backed PostgreSQL database managed via Prisma ORM.
+
+**Stack:** Vue.js, Nuxt.js, Tailwind CSS, Prisma ORM, Supabase (PostgreSQL), Stripe, OAuth (Google, GitHub), Vercel
+
+---
+
+### Todoist — Task Management App
+
+**GitHub:** [AbdulDevHub/Todoist](https://github.com/AbdulDevHub/Todoist)
+
+A desktop task management application built in Python. Supports creating, editing, saving, and deleting tasks with reminders, plus a graphical view of task activity over time using Matplotlib.
+
+**Stack:** Python, Tkinter, Pickle, JSON, Matplotlib
 
 ---
 
