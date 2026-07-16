@@ -367,10 +367,12 @@ Interactive code-learning platform with over a million users worldwide, featurin
 
 **Problems completed:** [LeetCode](https://leetcode.com/u/HelionImperion/)
 
-| Topic | Status |
+> *Note: The first number reflects total problems completed in that category (including practice from **NeetCode All**), while the second is the targeted count from the **NeetCode 250** roadmap.*
+
+| NeetCode 250 Topic | Status |
 |---|---|
-| Arrays & Hashing | 🔄 In progress (63/175) |
-| Two Pointers | Upcoming |
+| Arrays & Hashing | ✅ Completed (87/22 solved via NeetCode All) |
+| Two Pointers | 🔄 In progress (10/13) |
 | Sliding Window | Upcoming |
 | Stack | Upcoming |
 | Binary Search | Upcoming |
@@ -552,7 +554,7 @@ A Notion-like productivity platform built collaboratively with a **team of 7 dev
 
 A movie discovery web app with user authentication, light/dark mode, genre browsing, search, favorites, watchlists, pagination, and a **voice-controlled interface powered by Alan AI**. Integrates with the TMDB API for movie and actor data.
 
-**Stack:** React.js, Redux Toolkit, React Router, MUI, TMDB API, Alan AI (voice assistant), Create React App, Vercel
+**Stack:** React 18, TypeScript, Redux Toolkit, RTK Query, React Router v6, MUI v5, TMDB API, Alan AI (voice assistant), Vite, Oxlint, Vercel
 
 ---
 
@@ -725,19 +727,17 @@ A distributed inventory management backend with 5 services (OrderService, UserSe
 
 **GitHub:** [AbdulDevHub/Framework-Mountain](https://github.com/AbdulDevHub/Framework-Mountain)
 
-A monorepo of 30+ web development projects organized into themed Valleys for hands-on learning across diverse frameworks and domains. Uses both Git submodules (Filmverse) and Git subtrees (Git-Practice).
+A monorepo tracking 40+ web development projects organized into seven themed Valleys for hands-on learning across diverse frameworks, architecture paradigms, and DevOps strategies. Implements both Git submodules (Filmverse) and squashed Git subtrees (Git-Practice) to manage multi-repository architectures locally.
 
-**Valley highlights:**
+**Valley Highlights:**
 
-- **Backend Valley** — Hono REST API with Prisma + Supabase + Vitest; Redis learning; Next.js + FastAPI integration
-- **Tech Experiments** — CI/CD GitHub Actions reference; Vitest unit/integration testing; NextAuth v5 OAuth; RAG demo (Ollama + PGVector + Python); BullMQ email queue demo; Webhook verification (Stripe + HMAC-SHA256); Pino structured logging; CLI chat app (Ollama + Anthropic, streaming, role history)
-- **Web App Valley** — Vercel AI Chat (Next.js 16, Vercel AI SDK v6, Ollama streaming + tool calling); Job Pilot (AI job search, BrowserBase); Angular Webshop; Netflix UI clone; Vue 3 Job Board
-- **Portfolio Valley** — 5 portfolio concepts (Three.js solar system, SvelteKit CMS-driven, Next.js with motion/video, React + Vite, animated Next.js)
-- **Game Valley** — Flappy Bird clone (Canvas API)
-- **Component Valley** — Svelte animated login form, interactive pay card, Vuetify image gallery
-- **Data Scrape Valley** — Puppeteer bookstore scraper, blog scraper, dental PMS scraper
+- **Backend Valley** — REST APIs built with Hono (Prisma + Supabase + Vitest) and NestJS; production Redis learning (distributed in-memory key-value caching); FastAPI scaling setups.
+- **Tech Experiments** — Custom Model Context Protocol (MCP) server development using TypeScript/Zod; automated workflows with n8n; from-scratch RAG implementation (Ollama, PostgreSQL, pgvector, Python); production email queues with BullMQ + Redis; CI/CD GitHub Actions pipelines; local LLM runtime engineering; security and repository hygiene (Husky, Dependabot, Snyk); hands-on environments with Bun and LangChain.
+- **Web App Valley** — Full web applications including Vercel AI Chat (Next.js, Vercel AI SDK, tool/function calling, local streaming); Job Pilot (AI job-matching leveraging BrowserBase and PostHog); high-end animation systems with GSAP Drinks; Angular Webshops; and Vue 3 CRUD applications.
+- **Data Scrape Valley** — Advanced web scraping and data parsing tools built on TypeScript and Puppeteer, including specialized scrapers for dental PMS platforms.
+- **Portfolio & Component Valleys** — Architectural UI patterns across modern view layers (React, SvelteKit, Vue, Svelte, Vuetify) including interactive 3D WebGL solar simulations via Three.js.
 
-**Stack:** React, Next.js, Angular, Vue 3, Svelte, SvelteKit, TypeScript, Tailwind CSS, Three.js, Vercel AI SDK, Ollama, Anthropic, BullMQ, Redis, PostgreSQL, PGVector, Puppeteer, Docker, GitHub Actions
+**Stack:** React, Next.js, Angular, Vue, Svelte, SvelteKit, TypeScript, Node.js, Bun, Hono, NestJS, FastAPI, Python, PostgreSQL, Redis, pgvector, BullMQ, Puppeteer, Docker, GitHub Actions, MCP SDK, Zod, Husky, Snyk, n8n, LangChain, GSAP, Three.js
 
 ---
 
@@ -753,11 +753,16 @@ A living archive of 50+ frontend experiments, UI concepts, and interactive web u
 
 ### Dev Mountain
 
-**GitHub:** [AbdulDevHub/Dev-Mountain](https://github.com/AbdulDevHub/Dev-Mountain)
+A centralized, documentation-focused knowledge base built with **Docusaurus** to host production references, interactive code playgrounds, and custom cheatsheets. It serves as a single source of truth for engineering workflows, system architecture guides, and technical deep-dives.
 
-A curated developer knowledge base built with Docusaurus. Houses dev resources, UI/UX inspiration, motion design references, workflow guides, and blog posts. Deployed to GitHub Pages or Vercel.
+**Knowledge Domains:**
 
-**Stack:** Docusaurus, React, TypeScript, Markdown, yarn
+- **AI Systems & Architecture** — Deep-dives into Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP) implementations, AI agentic skill designs, and LLM system workflows.
+- **Tools & Workflow Optimization** — Practical setups for Windows Subsystem for Linux (WSL) development environments, standardized monorepo tools (`pnpm`), automated semantic versioning (`commitlint`), and GitHub workflow management.
+- **Scripting & Automation** — Hand-crafted repositories of front-end utility snippets, Python automation scripts, browser console automation, and terminal command configurations.
+- **Core Engineering References** — Dedicated modules covering comprehensive software testing methodologies, accessibility (a11y) tooling, cybersecurity foundations, and multi-language syntax configurations (TypeScript, Python, Java).
+
+**Stack:** Docusaurus, React, MDX, TypeScript, Markdown, Yarn
 
 ---
 
@@ -871,13 +876,13 @@ Custom GitHub profile README featuring animated coding GIF, language/tools icon 
 - BullMQ — queues, workers, retries, concurrency
 - pino — structured logging
 - Webhooks — HMAC-SHA256 signature verification
-- DSA: Arrays & Hashing, Two Pointers, Sliding Window, Trees (in progress)
+- DSA: Arrays & Hashing, Two Pointers (in progress)
 
 ### Upcoming (next)
 
 - tRPC
 - Prompt engineering (formalized)
 - System design fundamentals (ByteByteGo)
-- DSA: Linked Lists, Tries, Heaps, Graphs, DP
+- OpenTelemetry
 - STAR story polish + mock interviews
 - AWS Developer Associate cert *(optional but high-value)*
