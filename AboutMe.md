@@ -875,7 +875,7 @@ Custom GitHub profile README featuring animated coding GIF, language/tools icon 
 
 ## Learning Roadmap — Completed & Upcoming
 
-### Completed (as of June 2025)
+### Completed (as of June 2026)
 
 - SQL fundamentals — two FCC courses + W3Schools + CSC343
 - PostgreSQL — setup, queries, schema design, ERDs
