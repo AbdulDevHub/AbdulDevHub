@@ -727,17 +727,19 @@ A distributed inventory management backend with 5 services (OrderService, UserSe
 
 **GitHub:** [AbdulDevHub/Framework-Mountain](https://github.com/AbdulDevHub/Framework-Mountain)
 
-A monorepo tracking 40+ web development projects organized into seven themed Valleys for hands-on learning across diverse frameworks, architecture paradigms, and DevOps strategies. Implements both Git submodules (Filmverse) and squashed Git subtrees (Git-Practice) to manage multi-repository architectures locally.
+A monorepo tracking 40+ web development projects organized into seven themed Valleys — Backend, Component, Data Scrape, Game, Portfolio, Tech Experiments, and Web App — for hands-on learning across diverse frameworks, architecture paradigms, and DevOps strategies. Implements both Git submodules (Filmverse) and squashed Git subtrees (Git-Practice) to manage multi-repository architectures locally.
 
 **Valley Highlights:**
 
-- **Backend Valley** — REST APIs built with Hono (Prisma + Supabase + Vitest) and NestJS; production Redis learning (distributed in-memory key-value caching); FastAPI scaling setups.
-- **Tech Experiments** — Custom Model Context Protocol (MCP) server development using TypeScript/Zod; automated workflows with n8n; from-scratch RAG implementation (Ollama, PostgreSQL, pgvector, Python); production email queues with BullMQ + Redis; CI/CD GitHub Actions pipelines; local LLM runtime engineering; security and repository hygiene (Husky, Dependabot, Snyk); hands-on environments with Bun and LangChain.
-- **Web App Valley** — Full web applications including Vercel AI Chat (Next.js, Vercel AI SDK, tool/function calling, local streaming); Job Pilot (AI job-matching leveraging BrowserBase and PostHog); high-end animation systems with GSAP Drinks; Angular Webshops; and Vue 3 CRUD applications.
-- **Data Scrape Valley** — Advanced web scraping and data parsing tools built on TypeScript and Puppeteer, including specialized scrapers for dental PMS platforms.
-- **Portfolio & Component Valleys** — Architectural UI patterns across modern view layers (React, SvelteKit, Vue, Svelte, Vuetify) including interactive 3D WebGL solar simulations via Three.js.
+- **Backend Valley** — REST APIs built with Hono (Prisma + Supabase + Vitest) and a hackathon-management API on NestJS; production Redis/IoRedis learning for distributed in-memory key-value caching; FastAPI backend scaffolding on a Next.js/TypeScript foundation.
+- **Component Valley** — Reusable, framework-diverse UI: an animated Svelte/Rollup login form, an interactive live-preview credit card component, and a Vuetify-powered responsive image gallery with sidebar navigation.
+- **Data Scrape Valley** — Puppeteer-driven scraping tools in TypeScript, spanning bookstore data extraction, blog scraping with JSON dataset output, and specialized comparison scrapers for dental PMS platforms.
+- **Game Valley** — A browser-based Flappy Bird clone built with vanilla JavaScript and Canvas, including sound effects and sprite animation.
+- **Portfolio Valley** — A range of personal-site architectures: a Three.js 3D solar-system portfolio, a CMS-driven SvelteKit portfolio, a Next.js portfolio with motion/video backgrounds, and Tailwind-based React + Vite concepts.
+- **Tech Experiments** — Custom Model Context Protocol (MCP) server development using TypeScript/Zod; automated workflows with n8n; a from-scratch RAG implementation (Ollama, PostgreSQL, pgvector, Python); production email queues with BullMQ + Redis; GitHub Actions CI/CD pipelines with type-checking, testing, and Docker builds; GitHub OAuth via Auth.js; a terminal-based streaming chat CLI for Ollama and Anthropic; Stripe webhook verification with HMAC-SHA256; repository hygiene and security tooling (Husky, Dependabot, Snyk); and hands-on environments with Bun, LangChain/Streamlit, and GSAP.
+- **Web App Valley** — Full applications including Vercel AI Chat (Next.js 16, Vercel AI SDK v6, tool calling, local Ollama/OpenAI streaming); Job Pilot (AI job-matching leveraging BrowserBase and PostHog); Filmverse (React + TMDB + Alan AI voice navigation, managed as a Git submodule); Angular and Vue 3 e-commerce/CRUD apps; a Netflix UI clone; a 3D Apple-style homepage; and GSAP Drinks, a scroll-driven animation showcase.
 
-**Stack:** React, Next.js, Angular, Vue, Svelte, SvelteKit, TypeScript, Node.js, Bun, Hono, NestJS, FastAPI, Python, PostgreSQL, Redis, pgvector, BullMQ, Puppeteer, Docker, GitHub Actions, MCP SDK, Zod, Husky, Snyk, n8n, LangChain, GSAP, Three.js
+**Stack:** React, Next.js, Angular, Vue, Svelte, SvelteKit, TypeScript, JavaScript, Node.js, Bun, Hono, NestJS, FastAPI, Python, PostgreSQL, Redis, pgvector, BullMQ, Puppeteer, Docker, GitHub Actions, MCP SDK, Zod, Husky, Dependabot, Snyk, n8n, LangChain, Streamlit, GSAP, Three.js, Tailwind CSS, SCSS, Vuetify, Prisma, Supabase, Vitest, Auth.js, Stripe CLI, Ollama, OpenAI, Claude, Open Router, InsForge, PostHog, Adzuna, BrowserBase
 
 ---
 
@@ -745,22 +747,39 @@ A monorepo tracking 40+ web development projects organized into seven themed Val
 
 **GitHub:** [AbdulDevHub/Web-Mountain](https://github.com/AbdulDevHub/Web-Mountain)
 
-A living archive of 50+ frontend experiments, UI concepts, and interactive web utilities organized into four categories: Awesome Websites (Pokédex, card games UNO/War, QR code generator, file utilities), UI Experiments (food delivery UI, drone showcase, parallax photography gallery), Awesome Effects (WebGL fluid simulations, GPU-accelerated ink dispersion, particle systems, 3D cube/image effects, fire cursor, Anime.js sphere), and Chrome Extensions (Gallery Bookmark Viewer).
+A living archive of 50+ frontend experiments, UI concepts, and interactive web utilities, tracking a progression of skills from foundational HTML/CSS/JS to advanced WebGL and canvas-based effects. Organized into four categories: Awesome Websites, UI Experiments, Awesome Effects, and Chrome Extensions.
 
-**Stack:** HTML5, CSS3, JavaScript, Anime.js, WebGL, GPU.js, Canvas API, jQuery, Bootstrap
+**Category Highlights:**
+
+- **Awesome Websites** — Complete standalone projects including a Pokédex encyclopedia, classic card games (UNO, War), a whack-a-mole reaction game (Face Bomp), a Bootstrap portfolio template, a dynamic QR code generator, a mock email generator, a bookmark link generator, and batch file utilities (renaming, redownloading, duplicate detection).
+- **UI Experiments** — Concept interfaces exploring layout and interaction design: a food delivery app (Skynet Eats), a drone product showcase, a nature photography gallery, a minimalist productivity dashboard (Momentum), and an immersive video-background landing page.
+- **Awesome Effects** — 30+ interactive visual effects spanning WebGL fluid and flame simulations, GPU-accelerated ink dispersion (GPU.js), Anime.js-powered 3D spheres, particle systems, eye-tracking and cursor-follow effects, 3D cube loaders and image transitions, mouse-tracking spotlights, shine/hover animations, touch-enabled and split-screen sliders, and a custom Video.js player implementation.
+- **Chrome Extensions** — A Gallery Bookmark Viewer extension providing visual, customizable bookmark management directly in the browser.
+
+**Stack:** HTML5, CSS3, JavaScript (ES6+), Anime.js, WebGL, GPU.js, Canvas API, SVG, jQuery, Bootstrap, dat.GUI, Materialize, Video.js, CSS Grid, Flexbox
 
 ---
 
 ### Dev Mountain
 
-A centralized, documentation-focused knowledge base built with **Docusaurus** to host production references, interactive code playgrounds, and custom cheatsheets. It serves as a single source of truth for engineering workflows, system architecture guides, and technical deep-dives.
+A centralized, documentation-focused knowledge base built with **Docusaurus** to host production references, interactive code playgrounds, and custom cheatsheets. It serves as a single source of truth for engineering workflows, system architecture guides, and technical deep-dives — organized into 15 knowledge domains covering everything from language syntax to AI system design.
 
 **Knowledge Domains:**
 
-- **AI Systems & Architecture** — Deep-dives into Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP) implementations, AI agentic skill designs, and LLM system workflows.
-- **Tools & Workflow Optimization** — Practical setups for Windows Subsystem for Linux (WSL) development environments, standardized monorepo tools (`pnpm`), automated semantic versioning (`commitlint`), and GitHub workflow management.
+- **Getting Started** — Onboarding references for Docusaurus itself: syntax guides, React/MDX authoring patterns, and Markdown cheatsheets for contributing to the docs.
+- **Web Fundamentals** — Core front-end building blocks: HTML, CSS, Sass, JavaScript, TypeScript, and Tailwind quick references for day-to-day development.
+- **Programming Languages** — Syntax and concept references spanning Python, Java, C (pointers), SQL, and modern Python tooling via `uv`.
+- **Frameworks & Libraries** — Practical guides for React, NestJS, Electron.js, Three.js, and GSAP, plus comparison matrices for evaluating front-end and back-end framework choices.
+- **Computer Science Concepts** — Foundational theory: recursion, UML diagramming, regex patterns, and software design patterns.
 - **Scripting & Automation** — Hand-crafted repositories of front-end utility snippets, Python automation scripts, browser console automation, and terminal command configurations.
-- **Core Engineering References** — Dedicated modules covering comprehensive software testing methodologies, accessibility (a11y) tooling, cybersecurity foundations, and multi-language syntax configurations (TypeScript, Python, Java).
+- **Tools & Workflow** — Practical setups for VS Code, WSL development environments, `pnpm`, terminal theming, commit linting, GitHub label conventions, Git commands, tooling configs, home directory layout, and file permission/attribute basics (chmod, Windows ACLs).
+- **Design & UI** — Curated references for UI component libraries, animation tooling, and motion/design inspiration.
+- **Infrastructure & DevOps** — Operational references for Linux, PowerShell, Git at the infrastructure level, Nginx configuration, and AWS fundamentals.
+- **AI Systems** — Deep-dives into AI architecture workflows, agent skill design, and Retrieval-Augmented Generation (RAG) / Model Context Protocol (MCP) fundamentals.
+- **Quality, Testing & Performance** — Comprehensive software testing methodologies, accessibility (a11y) tooling, and SEO/performance optimization basics.
+- **Security & Privacy** — Cybersecurity fundamentals, uBlock Origin Lite custom filter authoring, and applied hacking/security guides.
+- **Project Management** — Scrum and Agile methodology references for engineering teams.
+- **References & Knowledge** — A miscellany of durable references: learning platform roundups, asset naming conventions, SWE role/specialization breakdowns, and web monetization models.
 
 **Stack:** Docusaurus, React, MDX, TypeScript, Markdown, Yarn
 
