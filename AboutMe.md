@@ -46,7 +46,7 @@
 **Completed coursework:**
 
 | Code | Course |
-|---|---|
+| --- | --- |
 | CCT109H5 | Contemporary Communication Technologies |
 | CSC108H5 | Introduction to Computer Programming |
 | ISP100H5 | Writing for University and Beyond |
@@ -89,7 +89,7 @@
 **Upcoming coursework:**
 
 | Code | Course |
-|---|---|
+| --- | --- |
 | CSC367H5 | Parallel Programming |
 | CSC373H5 | Algorithm Design and Analysis |
 | CSC384H5 | Introduction to Artificial Intelligence |
@@ -370,17 +370,17 @@ Interactive code-learning platform with over a million users worldwide, featurin
 > *Note: The first number reflects total problems completed in that category (including practice from **NeetCode All**), while the second is the targeted count from the **NeetCode 250** roadmap.*
 
 | NeetCode 250 Topic | Status |
-|---|---|
+| --- | --- |
 | Arrays & Hashing | ✅ Completed (87/22 solved via NeetCode All) |
-| Two Pointers | 🔄 In progress (10/13) |
-| Sliding Window | Upcoming |
-| Stack | Upcoming |
-| Binary Search | Upcoming |
-| Linked List | Upcoming |
-| Trees (BFS, DFS) | Upcoming |
-| Tries | Upcoming |
-| Heap / Priority Queue | Upcoming |
-| Graphs (BFS, DFS) | Upcoming |
+| Two Pointers | ✅ Completed (22/13) solved via NeetCode All |
+| Sliding Window | 🔄 In progress (0/9) |
+| Stack | Upcoming (0/14) |
+| Binary Search | Upcoming (0/14) |
+| Linked List | Upcoming (0/14) |
+| Trees (BFS, DFS) | Upcoming (0/23) |
+| Heap / Priority Queue | Upcoming (0/12) |
+| Tries | Upcoming (0/4) |
+| Graphs (BFS, DFS) | Upcoming (0/21) |
 | Dynamic Programming | Upcoming |
 
 **Language used:** Python, TypeScript
