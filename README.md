@@ -55,7 +55,7 @@
   </a>
   
   <a href="https://cline.bot/" target="_blank" rel="noreferrer">
-    <img src="Images/Cline.svg" alt="Cline" width="40" height="40"/>
+    <img src="Images/Cline.png" alt="Cline" width="40" height="40"/>
   </a>
 
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
@@ -99,7 +99,7 @@
   </a>
 
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
-    <img src="Images/GithubCopilot.svg" alt="github copilot" width="40" height="40"/>
+    <img src="Images/GithubCopilot.png" alt="github copilot" width="40" height="40"/>
   </a>
 
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
@@ -158,8 +158,12 @@
     <img src="Images/Linux.svg" alt="linux" width="40" height="40"/>
   </a>
 
-  <a href="https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro" target="_blank" rel="noreferrer">
-    <img src="Images/MCP.svg" alt="mcp" width="40" height="40"/>
+  <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark%20Versions/MCPDark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="Images/MCP.svg" />
+      <img src="Images/MCP.svg" alt="MCP" width="40" height="40"/>
+    </picture>
   </a>
 
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
@@ -167,7 +171,7 @@
   </a>
 
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-    <img src="Images/N8n.svg" alt="n8n" width="40" height="40"/>
+    <img src="Images/N8N.svg" alt="n8n" width="40" height="40"/>
   </a>
 
   <a href="https://gemini.google/overview/image-generation/" target="_blank" rel="noreferrer">
@@ -195,7 +199,11 @@
   </a>
 
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
-    <img src="Images/Ollama.svg" alt="ollama" width="40" height="40"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="Images/Dark%20Versions/OllamaDark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="Images/Ollama.svg" />
+      <img src="Images/Ollama.svg" alt="Ollama" width="40" height="40"/>
+    </picture>
   </a>
 
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
