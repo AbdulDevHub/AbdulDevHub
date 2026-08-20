@@ -38,8 +38,20 @@
     <img src="Images/Blender.svg" alt="blender" width="40" height="40"/>
   </a>
 
+  <a href="https://bun.sh/" target="_blank" rel="noreferrer">
+    <img src="Images/Bun.svg" alt="bun" width="40" height="40"/>
+  </a>
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="Images/C.svg" alt="c" width="40" height="40"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="Images/CSharp.svg" alt="csharp" width="40" height="40"/>
+  </a>
+
+  <a href="https://claude.com/" target="_blank" rel="noreferrer">
+    <img src="Images/Claude.svg" alt="claude" width="40" height="40"/>
   </a>
 
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
@@ -54,6 +66,10 @@
     <img src="Images/Docker.svg" alt="docker" width="40" height="40"/>
   </a>
 
+  <a href="https://docusaurus.io/" target="_blank" rel="noreferrer">
+    <img src="Images/Docusaurus.svg" alt="docusaurus" width="40" height="40"/>
+  </a>
+
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
     <img src="Images/ElectronJs.svg" alt="electron" width="40" height="40"/>
   </a>
@@ -66,12 +82,28 @@
     <img src="Images/Firebase.svg" alt="firebase" width="40" height="40"/>
   </a>
 
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+    <img src="Images/Gemini.svg" alt="gemini" width="40" height="40"/>
+  </a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="Images/Git.svg" alt="git" width="40" height="40"/>
   </a>
 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="Images/Go.svg" alt="go" width="40" height="40"/>
+  </a>
+
+  <a href="https://antigravity.google/" target="_blank" rel="noreferrer">
+    <img src="Images/GoogleAntiGravity.svg" alt="google antigravity" width="40" height="40"/>
+  </a>
+
   <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer">
     <img src="Images/GoogleLighthouse.png" alt="google lighthouse" width="40" height="40"/>
+  </a>
+
+  <a href="https://hono.dev/" target="_blank" rel="noreferrer">
+    <img src="Images/Hono.svg" alt="hono" width="40" height="40"/>
   </a>
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -98,6 +130,10 @@
     <img src="Images/Jupyter.svg" alt="jupyter" width="40" height="40"/>
   </a>
 
+  <a href="https://kilo.ai/" target="_blank" rel="noreferrer">
+    <img src="Images/KiloCode.svg" alt="kilocode" width="40" height="40"/>
+  </a>
+
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
     <img src="Images/Kotlin.svg" alt="kotlin" width="40" height="40"/>
   </a>
@@ -114,8 +150,32 @@
     <img src="Images/MUI.svg" alt="materialui" width="40" height="40"/>
   </a>
 
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="Images/Netlify.svg" alt="netlify" width="40" height="40"/>
+  </a>
+
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="Images/NextJs.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+    <img src="Images/Nginx.svg" alt="nginx" width="40" height="40"/>
+  </a>
+
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="Images/NodeJs.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+
   <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
     <img src="Images/Nuxt.svg" alt="nuxt" width="40" height="40"/>
+  </a>
+
+  <a href="https://openai.com/" target="_blank" rel="noreferrer">
+    <img src="Images/OpenAI.svg" alt="openai" width="40" height="40"/>
+  </a>
+
+  <a href="https://openrouter.ai/" target="_blank" rel="noreferrer">
+    <img src="Images/OpenRouter.svg" alt="openrouter" width="40" height="40"/>
   </a>
 
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
@@ -134,6 +194,10 @@
     <img src="Images/Powershell.svg" alt="powershell" width="40" height="40"/>
   </a>
 
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="Images/Prisma.svg" alt="prisma" width="40" height="40"/>
+  </a>
+
   <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
     <img src="Images/Puppeteer.svg" alt="puppeteer" width="40" height="40"/>
   </a>
@@ -148,6 +212,10 @@
 
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="Images/Redis.svg" alt="redis" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
+    <img src="Images/Shopify.svg" alt="shopify" width="40" height="40"/>
   </a>
 
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
@@ -169,7 +237,7 @@
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="Images/Dark%20Versions/Threejs.png" />
-      <source media="(prefers-color-scheme: light)" srcset="Imaeges/Threejs.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="Images/Threejs.svg" />
       <img src="Images/Threejs.svg" alt="three.js" width="40" height="40"/>
     </picture>
   </a>
@@ -186,6 +254,10 @@
     </picture>
   </a>
 
+  <a href="https://docs.varphi-lang.com/" target="_blank" rel="noreferrer">
+    <img src="Images/Varphi.svg" alt="varphi" width="40" height="40"/>
+  </a>
+
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="Images/Dark%20Versions/Vercel.png" />
@@ -198,12 +270,20 @@
     <img src="Images/Vite.svg" alt="vitejs" width="40" height="40"/>
   </a>
 
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+    <img src="Images/Vitest.svg" alt="vitest" width="40" height="40"/>
+  </a>
+
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="Images/VsCode.svg" alt="vscode" width="40" height="40"/>
   </a>
 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="Images/Vue.svg" alt="vue" width="40" height="40"/>
+  </a>
+
+  <a href="https://zod.dev/" target="_blank" rel="noreferrer">
+    <img src="Images/Zod.svg" alt="zod" width="40" height="40"/>
   </a>
 </p>
 
