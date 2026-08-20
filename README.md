@@ -53,6 +53,10 @@
   <a href="https://claude.com/" target="_blank" rel="noreferrer">
     <img src="Images/Claude.svg" alt="claude" width="40" height="40"/>
   </a>
+  
+  <a href="https://cline.bot/" target="_blank" rel="noreferrer">
+    <img src="Images/Cline.svg" alt="Cline" width="40" height="40"/>
+  </a>
 
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
     <img src="Images/Cloudflare.svg" alt="cloudflare" width="40" height="40"/>
@@ -60,6 +64,10 @@
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="Images/CSS.svg" alt="css3" width="40" height="40"/>
+  </a>
+
+  <a href="https://deepseek.com/" target="_blank" rel="noreferrer">
+    <img src="Images/Deepseek.svg" alt="deepseek" width="40" height="40"/>
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -83,11 +91,15 @@
   </a>
 
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-    <img src="Images/Gemini.svg" alt="gemini" width="40" height="40"/>
+    <img src="Images/Gemini.webp" alt="gemini" width="40" height="40"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="Images/Git.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+    <img src="Images/GithubCopilot.svg" alt="github copilot" width="40" height="40"/>
   </a>
 
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
@@ -95,7 +107,7 @@
   </a>
 
   <a href="https://antigravity.google/" target="_blank" rel="noreferrer">
-    <img src="Images/GoogleAntiGravity.svg" alt="google antigravity" width="40" height="40"/>
+    <img src="Images/GoogleAntiGravity.webp" alt="google antigravity" width="40" height="40"/>
   </a>
 
   <a href="https://developers.google.com/web/tools/lighthouse" target="_blank" rel="noreferrer">
@@ -131,7 +143,7 @@
   </a>
 
   <a href="https://kilo.ai/" target="_blank" rel="noreferrer">
-    <img src="Images/KiloCode.svg" alt="kilocode" width="40" height="40"/>
+    <img src="Images/KiloCode.webp" alt="kilocode" width="40" height="40"/>
   </a>
 
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
@@ -146,8 +158,20 @@
     <img src="Images/Linux.svg" alt="linux" width="40" height="40"/>
   </a>
 
+  <a href="https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro" target="_blank" rel="noreferrer">
+    <img src="Images/MCP.svg" alt="mcp" width="40" height="40"/>
+  </a>
+
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="Images/MUI.svg" alt="materialui" width="40" height="40"/>
+  </a>
+
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="Images/N8n.svg" alt="n8n" width="40" height="40"/>
+  </a>
+
+  <a href="https://gemini.google/overview/image-generation/" target="_blank" rel="noreferrer">
+    <img src="Images/NanoBanana.svg" alt="nanobanana" width="40" height="40"/>
   </a>
 
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
@@ -170,16 +194,24 @@
     <img src="Images/Nuxt.svg" alt="nuxt" width="40" height="40"/>
   </a>
 
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer">
+    <img src="Images/Ollama.svg" alt="ollama" width="40" height="40"/>
+  </a>
+
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="Images/OpenAI.svg" alt="openai" width="40" height="40"/>
   </a>
 
   <a href="https://openrouter.ai/" target="_blank" rel="noreferrer">
-    <img src="Images/OpenRouter.svg" alt="openrouter" width="40" height="40"/>
+    <img src="Images/OpenRouter.png" alt="openrouter" width="40" height="40"/>
   </a>
 
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
     <img src="Images/Playwright.svg" alt="playwright" width="40" height="40"/>
+  </a>
+
+  <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+    <img src="Images/Pnpm.svg" alt="pnpm" width="40" height="40"/>
   </a>
 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
@@ -198,8 +230,16 @@
     <img src="Images/Prisma.svg" alt="prisma" width="40" height="40"/>
   </a>
 
+  <a href="https://prismic.io/" target="_blank" rel="noreferrer">
+    <img src="Images/Prismic.svg" alt="prismic" width="40" height="40"/>
+  </a>
+
   <a href="https://pptr.dev/" target="_blank" rel="noreferrer">
     <img src="Images/Puppeteer.svg" alt="puppeteer" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="Images/Pycharm.svg" alt="pycharm" width="40" height="40"/>
   </a>
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -220,6 +260,10 @@
 
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="Images/Slack.svg" alt="slack" width="40" height="40"/>
+  </a>
+
+  <a href="https://snyk.io/" target="_blank" rel="noreferrer">
+    <img src="Images/Snyk.svg" alt="snyk" width="40" height="40"/>
   </a>
 
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
@@ -255,7 +299,7 @@
   </a>
 
   <a href="https://docs.varphi-lang.com/" target="_blank" rel="noreferrer">
-    <img src="Images/Varphi.svg" alt="varphi" width="40" height="40"/>
+    <img src="Images/Varphi.png" alt="varphi" width="40" height="40"/>
   </a>
 
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
