@@ -344,21 +344,21 @@
   <h2>GitHub Stats</h2>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light">
-    <img align="left" src="https://readmeify-github-readme-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light" alt="abduldevhub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light">
+    <img align="left" src="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light" alt="abduldevhub" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light">
-    <img align="center" src="https://readmeify-github-readme-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light" alt="abduldevhub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light">
+    <img align="center" src="https://readmeify-stats.vercel.app/api?username=abduldevhub&show_icons=true&locale=en&theme=light" alt="abduldevhub" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-github-streak-stat.vercel.app/?user=abduldevhub&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-github-streak-stat.vercel.app/?user=abduldevhub&theme=light">
-    <img align="center" src="https://readmeify-github-streak-stat.vercel.app/?user=abduldevhub&theme=light" alt="abduldevhub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=light">
+    <img align="center" src="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=light" alt="abduldevhub" />
   </picture>
 </div>
 
@@ -377,7 +377,7 @@
 
 <!-- Code To Render 3D Commit Table -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-edit-svg-proxy.netlify.app/profile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readmeify.netlify.app/profile.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile Contribution graph" />
 </picture>
