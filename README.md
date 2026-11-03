@@ -377,7 +377,7 @@
 
 <!-- Code To Render 3D Commit Table -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readmeify.netlify.app/profile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/profile.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="GitHub Profile Contribution graph" />
 </picture>
