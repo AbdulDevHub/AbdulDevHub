@@ -348,9 +348,9 @@
   <h2>GitHub Stats</h2>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8&card_width=353&card_height=195">
-    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light&langs_count=8&card_width=353&card_height=195">
-    <img align="left" src="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light&langs_count=8&card_width=353&card_height=195" alt="abduldevhub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8&card_width=333&card_height=195">
+    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light&langs_count=8&card_width=333&card_height=195">
+    <img align="left" src="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light&langs_count=8&card_width=333&card_height=195" alt="abduldevhub" />
   </picture>
   
   <picture>
@@ -360,15 +360,15 @@
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=dark&card_width=420">
-    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=light&card_width=420">
-    <img align="center" src="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=light&card_width=420" alt="abduldevhub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=dark&card_width=400">
+    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=light&card_width=400">
+    <img align="left" src="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=light&card_width=400" alt="abduldevhub" />
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/api/claude?theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/api/claude?theme=light">
-    <img align="center" src="https://readmeify-stats.vercel.app/api/claude?theme=light" alt="Claude Code Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/api/claude?theme=dark&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/api/claude?theme=light&v=2">
+    <img align="center" src="https://readmeify-stats.vercel.app/api/claude?theme=light&v=2" alt="Claude Code Stats" />
   </picture>
 </div>
 
