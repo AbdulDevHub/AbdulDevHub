@@ -53,6 +53,10 @@
   <a href="https://claude.com/" target="_blank" rel="noreferrer">
     <img src="Images/Claude.svg" alt="claude" width="40" height="40"/>
   </a>
+
+  <a href="https://claude.com/product/claude-code" target="_blank" rel="noreferrer">
+    <img src="Images/ClaudeCode.svg" alt="claude code" width="40" height="40"/>
+  </a>
   
   <a href="https://cline.bot/" target="_blank" rel="noreferrer">
     <img src="Images/Cline.png" alt="Cline" width="40" height="40"/>
@@ -359,6 +363,12 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=light">
     <img align="center" src="https://readmeify-stats.vercel.app/?user=abduldevhub&theme=light" alt="abduldevhub" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/api/claude?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/api/claude?theme=light">
+    <img align="center" src="https://readmeify-stats.vercel.app/api/claude?theme=light" alt="Claude Code Stats" />
   </picture>
 </div>
 
