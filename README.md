@@ -348,9 +348,9 @@
   <h2>GitHub Stats</h2>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8&card_width=363&card_height=195">
-    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light&langs_count=8&card_width=363&card_height=195">
-    <img align="left" src="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light&langs_count=8&card_width=363&card_height=195" alt="abduldevhub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8&card_width=363&card_height=195&v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light&langs_count=8&card_width=363&card_height=195&v=2">
+    <img align="left" src="https://readmeify-stats.vercel.app/api/top-langs?username=abduldevhub&show_icons=true&locale=en&layout=compact&theme=light&langs_count=8&card_width=363&card_height=195&v=2" alt="abduldevhub" />
   </picture>
   
   <picture>
