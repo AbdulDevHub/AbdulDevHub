@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="Images/Gifs/FloatingCoder (Transparent).gif">
 <img alt="Empty Space" src="https://github.com/abduldevhub/abduldevhub/blob/master/github.gif" />
 
-- 🔭 I’m currently working on [Opal Labs](https://github.com/AbdulDevHub/Opal-Labs-Frontend)
+- 🔭 I’m currently working on [Gates Of Heaven And Hell](https://github.com/AbdulDevHub/Gates-Of-Heaven-And-Hell)
 - 🌱 I’m currently learning **Next.js, Three.js, & SQL**
 - 👨‍💻 All of my projects are available at [abdulhadikhan.vercel.app](https://abdulhadikhan.vercel.app/)
 
