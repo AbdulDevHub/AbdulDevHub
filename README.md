@@ -1,5 +1,8 @@
 [![MasterHead](./Images/Header.png)](https://abdulhadikhan.netlify.app/)
-<img align="right" alt="Coding" width="400" src="Images/Gifs/FloatingCoder (Transparent).gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="Images/Gifs/FloatingCoder%20(Dark).gif">
+  <img align="right" alt="Coding" width="400" src="Images/Gifs/FloatingCoder%20(Original).gif">
+</picture>
 <img alt="Empty Space" src="https://github.com/abduldevhub/abduldevhub/blob/master/github.gif" />
 
 - 🔭 I’m currently working on [Gates Of Heaven And Hell](https://github.com/AbdulDevHub/Gates-Of-Heaven-And-Hell)
