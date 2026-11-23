@@ -8,7 +8,7 @@
 </a>
 <img alt="Empty Space" src="https://github.com/abduldevhub/abduldevhub/blob/master/github.gif" />
 
-- 🔭 I’m currently working on [Open Source Pilot](https://github.com/AbdulDevHub/Open-Source-Pilot)
+- 🔭 I’m currently working on [Local Video Player](https://github.com/AbdulDevHub/Local-Video-Player)
 - 🌱 I’m currently learning **Next.js, Three.js, & SQL**
 - 👨‍💻 All of my projects are available at [abdulhadikhan.vercel.app](https://abdulhadikhan.vercel.app/)
 
